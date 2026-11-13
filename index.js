@@ -25,15 +25,15 @@ const CHANNEL_MAPPING = [
 
 const EPG_SOURCE_URL = 'https://www.open-epg.com/files/thailand2.xml';
 
-// ฟังก์ชันทำความสะอาดข้อความ XML แบบถูกต้องสมบูรณ์
+// ใช้รหัส Unicode แทนเครื่องหมายคำพูด ป้องกันปัญหาโค้ดเพี้ยนตอนก๊อปปี้
 function escapeXml(str) {
     if (!str || typeof str !== 'string') return '';
     return str
-        .replace(/&/g, '&')
-        .replace(/</g, '<')
-        .replace(/>/g, '>')
-        .replace(/"/g, '"')
-        .replace(/'/g, ''');
+        .replace(/&/g, '\u0026amp;')
+        .replace(/</g, '\u0026lt;')
+        .replace(/>/g, '\u0026gt;')
+        .replace(/"/g, '\u0026quot;')
+        .replace(/\x27/g, '\u0026apos;');
 }
 
 async function generateRealEPG() {
