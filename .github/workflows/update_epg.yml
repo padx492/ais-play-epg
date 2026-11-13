@@ -3,22 +3,22 @@ name: Update EPG Daily
 on:
   schedule:
     - cron: '0 0 * * *' # รันทุกๆ เที่ยงคืน
-  workflow_dispatch: # ปุ่มกดรันมือ
+  workflow_dispatch: # ปุ่มสำหรับกดรันด้วยมือ
 
 permissions:
   contents: write
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04 # ใช้ระบบปฏิบัติการเวอร์ชันเสถียร
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5 # อัปเดตเป็น v5 รองรับ Node.js 24+
 
       - name: Set up Node.js
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5 # อัปเดตเป็น v5
         with:
-          node-version: '20' # บังคับใช้เวอร์ชันที่รองรับเสถียร
+          node-version: '22' # กำหนดเวอร์ชัน Node.js ให้เสถียร
 
       - name: Install dependencies
         run: npm install
