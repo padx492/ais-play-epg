@@ -1,8 +1,7 @@
 const fs = require('fs');
 const axios = require('axios');
-const { XMLParser, XMLBuilder } = require('fast-xml-parser');
+const { XMLParser } = require('fast-xml-parser');
 
-// รายชื่อช่องของคุณที่ต้องการแมตช์ (ชื่อใน Open-EPG -> รหัสช่องของคุณ)
 const CHANNEL_MAPPING = [
     { myId: "2", searchName: "NBT" },
     { myId: "3", searchName: "Thai PBS" },
@@ -20,8 +19,6 @@ const CHANNEL_MAPPING = [
     { myId: "33", searchName: "Channel 3" },
     { myId: "34", searchName: "Amarin" },
     { myId: "35", searchName: "Channel 7" },
-    { myId: "36", searchName: "PPTV" },
-    { myId: "101", searchName: "HBO" }
 ];
 
 const EPG_SOURCE_URL = 'https://www.open-epg.com/files/thailand2.xml';
