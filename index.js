@@ -25,7 +25,7 @@ const CHANNEL_MAPPING = [
 
 const EPG_SOURCE_URL = 'https://www.open-epg.com/files/thailand2.xml';
 
-// ฟังก์ชันทำความสะอาดข้อความ XML ที่ถูกต้อง
+// ฟังก์ชันทำความสะอาดข้อความ XML ที่แก้ไข Syntax ให้ถูกต้องแล้ว
 function escapeXml(str) {
     if (!str || typeof str !== 'string') return '';
     return str
