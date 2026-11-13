@@ -19,9 +19,22 @@ const CHANNEL_MAPPING = [
     { myId: "33", searchName: "Channel 3" },
     { myId: "34", searchName: "Amarin" },
     { myId: "35", searchName: "Channel 7" },
+    { myId: "36", searchName: "PPTV" },
+    { myId: "101", searchName: "HBO" }
 ];
 
 const EPG_SOURCE_URL = 'https://www.open-epg.com/files/thailand2.xml';
+
+// ฟังก์ชันช่วยทำความสะอาดข้อความ ป้องกัน Error XML ยุบยิบ
+function escapeXml(str) {
+    if (!str || typeof str !== 'string') return '';
+    return str
+        .replace(/&/g, '&')
+        .replace(/</g, '<')
+        .replace(/>/g, '>')
+        .replace(/"/g, '"')
+        .replace(/'/g, ''');
+}
 
 async function generateRealEPG() {
     try {
@@ -37,31 +50,34 @@ async function generateRealEPG() {
         let xml = '<?xml version="1.0" encoding="UTF-8"?>\n';
         xml += '<tv generator-info-name="AISPLAY-OpenEPG-Real">\n';
 
-        // 1. สร้างแท็ก Channel ของคุณ
+        // 1. สร้างแท็ก Channel
         CHANNEL_MAPPING.forEach(ch => {
             xml += `  <channel id="${ch.myId}">\n`;
             xml += `    <display-name lang="th">ช่อง ${ch.myId}</display-name>\n`;
             xml += `  </channel>\n`;
         });
 
-        // 2. ดึงรายการ programme จากต้นทางมาแปลงใส่รหัสช่องของคุณ
+        // 2. ดึงรายการ programme พร้อมกรองอักขระพิเศษ
         if (jsonObj.tv && jsonObj.tv.programme) {
             const programs = Array.isArray(jsonObj.tv.programme) ? jsonObj.tv.programme : [jsonObj.tv.programme];
             
             programs.forEach(prog => {
                 const srcChannel = prog["@_channel"];
-                // ค้นหาว่าตรงกับช่องที่เราสนใจไหม
                 const matched = CHANNEL_MAPPING.find(c => srcChannel && srcChannel.toLowerCase().includes(c.searchName.toLowerCase()));
                 
                 if (matched) {
                     const start = prog["@_start"] || "";
                     const stop = prog["@_stop"] || "";
-                    const title = prog.title ? (prog.title["#text"] || prog.title) : "รายการทีวี";
-                    const desc = prog.desc ? (prog.desc["#text"] || prog.desc) : "ไม่มีรายละเอียด";
+                    
+                    let rawTitle = prog.title ? (prog.title["#text"] || prog.title) : "รายการทีวี";
+                    let rawDesc = prog.desc ? (prog.desc["#text"] || prog.desc) : "ไม่มีรายละเอียด";
+
+                    const title = escapeXml(typeof rawTitle === 'string' ? rawTitle : 'รายการ');
+                    const desc = escapeXml(typeof rawDesc === 'string' ? rawDesc : 'รายละเอียด');
 
                     xml += `  <programme start="${start}" stop="${stop}" channel="${matched.myId}">\n`;
-                    xml += `    <title lang="th">${typeof title === 'string' ? title : 'รายการ'}</title>\n`;
-                    xml += `    <desc lang="th">${typeof desc === 'string' ? desc : 'รายละเอียด'}</desc>\n`;
+                    xml += `    <title lang="th">${title}</title>\n`;
+                    xml += `    <desc lang="th">${desc}</desc>\n`;
                     xml += `  </programme>\n`;
                 }
             });
@@ -70,7 +86,7 @@ async function generateRealEPG() {
         xml += '</tv>';
 
         fs.writeFileSync('epg.xml', xml, 'utf8');
-        console.log('สร้างไฟล์ epg.xml ผังจริงสำเร็จเรียบร้อย!');
+        console.log('สร้างไฟล์ epg.xml ผังจริงและกรองอักขระพิเศษสำเร็จเรียบร้อย!');
 
     } catch (error) {
         console.error('เกิดข้อผิดพลาด:', error.message);
