@@ -2,30 +2,31 @@ const fs = require('fs');
 const axios = require('axios');
 const { XMLParser } = require('fast-xml-parser');
 
+// เพิ่ม property 'displayName' เข้าไป เพื่อกำหนดชื่อที่จะแสดงใน TiviMate
 const CHANNEL_MAPPING = [
-    { myId: "2", searchName: "NBT" },
-    { myId: "3", searchName: "Thai PBS" },
-    { myId: "5", searchName: "TV5" },
-    { myId: "7", searchName: "T Sports" },
-    { myId: "16", searchName: "TNN" },
-    { myId: "22", searchName: "Nation" },
-    { myId: "23", searchName: "Workpoint" },
-    { myId: "24", searchName: "True4U" },
-    { myId: "25", searchName: "GMM" },
-    { myId: "27", searchName: "Channel 8" },
-    { myId: "30", searchName: "MCOT" },
-    { myId: "31", searchName: "ONE" },
-    { myId: "32", searchName: "Thairath" },
-    { myId: "33", searchName: "Channel 3" },
-    { myId: "34", searchName: "Amarin" },
-    { myId: "35", searchName: "Channel 7" },
-    { myId: "36", searchName: "PPTV" },
-    { myId: "101", searchName: "HBO" }
+    { myId: "2", searchName: "NBT", displayName: "NBT" },
+    { myId: "3", searchName: "Thai PBS", displayName: "Thai PBS" },
+    { myId: "5", searchName: "TV5", displayName: "TV5 HD" },
+    { myId: "7", searchName: "T Sports", displayName: "T Sports 7" },
+    { myId: "16", searchName: "TNN", displayName: "TNN16" },
+    { myId: "22", searchName: "Nation", displayName: "Nation TV" },
+    { myId: "23", searchName: "Workpoint", displayName: "Workpoint TV" },
+    { myId: "24", searchName: "True4U", displayName: "True4U" },
+    { myId: "25", searchName: "GMM", displayName: "GMM 25" },
+    { myId: "27", searchName: "Channel 8", displayName: "Channel 8" },
+    { myId: "30", searchName: "MCOT", displayName: "MCOT HD" },
+    { myId: "31", searchName: "ONE", displayName: "ONE 31" },
+    { myId: "32", searchName: "Thairath", displayName: "Thairath TV" },
+    { myId: "33", searchName: "Channel 3", displayName: "Channel 3 HD" },
+    { myId: "34", searchName: "Amarin", displayName: "Amarin TV" },
+    { myId: "35", searchName: "Channel 7", displayName: "Channel 7 HD" },
+    { myId: "36", searchName: "PPTV", displayName: "PPTV HD" },
+    { myId: "101", searchName: "HBO", displayName: "HBO" }
 ];
 
 const EPG_SOURCE_URL = 'https://www.open-epg.com/files/thailand2.xml';
 
-// ใช้รหัส Unicode แทนเครื่องหมายคำพูด ป้องกันปัญหาโค้ดเพี้ยนตอนก๊อปปี้
+// ฟังก์ชันทำความสะอาดข้อความ XML ป้องกันปัญหาโค้ดเพี้ยน
 function escapeXml(str) {
     if (!str || typeof str !== 'string') return '';
     return str
@@ -50,10 +51,10 @@ async function generateRealEPG() {
         let xml = '<?xml version="1.0" encoding="UTF-8"?>\n';
         xml += '<tv generator-info-name="AISPLAY-OpenEPG-Real">\n';
 
-        // 1. สร้างแท็ก Channel
+        // 1. สร้างแท็ก Channel โดยดึงค่าจาก displayName ที่เรากำหนดไว้
         CHANNEL_MAPPING.forEach(ch => {
             xml += `  <channel id="${ch.myId}">\n`;
-            xml += `    <display-name lang="th">ช่อง ${ch.myId}</display-name>\n`;
+            xml += `    <display-name lang="th">${ch.displayName}</display-name>\n`;
             xml += `  </channel>\n`;
         });
 
