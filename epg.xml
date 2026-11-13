@@ -1,318 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="AISPLAY-OpenEPG-Custom">
+<tv generator-info-name="AISPLAY-Real-EPG">
   <channel id="2">
-    <display-name lang="th">เอ็นบีที 2 เอชดี</display-name>
+    <display-name lang="th">NBT 2 HD</display-name>
   </channel>
   <channel id="3">
-    <display-name lang="th">ไทยพีบีเอส เอชดี</display-name>
+    <display-name lang="th">Thai PBS HD</display-name>
   </channel>
   <channel id="5">
-    <display-name lang="th">5 เอชดี</display-name>
+    <display-name lang="th">TV5 HD</display-name>
   </channel>
   <channel id="7">
-    <display-name lang="th">ทีสปอร์ต 7</display-name>
-  </channel>
-  <channel id="10">
-    <display-name lang="th">สถานีวิทยุโทรทัศน์รัฐสภา</display-name>
+    <display-name lang="th">T Sports 7</display-name>
   </channel>
   <channel id="16">
-    <display-name lang="th">ทีเอ็นเอ็น</display-name>
+    <display-name lang="th">TNN16</display-name>
   </channel>
   <channel id="22">
-    <display-name lang="th">เนชั่น ชาแนล</display-name>
+    <display-name lang="th">Nation TV</display-name>
   </channel>
   <channel id="23">
-    <display-name lang="th">เวิร์คพอยท์</display-name>
+    <display-name lang="th">Workpoint TV</display-name>
   </channel>
   <channel id="24">
-    <display-name lang="th">ทรูโฟร์ยู</display-name>
+    <display-name lang="th">True4U</display-name>
   </channel>
   <channel id="25">
-    <display-name lang="th">จีเอ็มเอ็ม 25</display-name>
+    <display-name lang="th">GMM 25</display-name>
   </channel>
   <channel id="27">
-    <display-name lang="th">ช่อง 8</display-name>
-  </channel>
-  <channel id="29">
-    <display-name lang="th">โมโนแมกซ์ สปอร์ตส์</display-name>
+    <display-name lang="th">Channel 8</display-name>
   </channel>
   <channel id="30">
-    <display-name lang="th">เอ็มคอท เอชดี 30</display-name>
+    <display-name lang="th">MCOT HD</display-name>
   </channel>
   <channel id="31">
-    <display-name lang="th">วัน เอชดี 31</display-name>
+    <display-name lang="th">ONE 31</display-name>
   </channel>
   <channel id="32">
-    <display-name lang="th">ไทยรัฐทีวี เอชดี</display-name>
+    <display-name lang="th">Thairath TV</display-name>
   </channel>
   <channel id="33">
-    <display-name lang="th">3 เอชดี</display-name>
+    <display-name lang="th">Channel 3 HD</display-name>
   </channel>
   <channel id="34">
-    <display-name lang="th">อมรินทร์ ทีวี เอชดี</display-name>
+    <display-name lang="th">Amarin TV</display-name>
   </channel>
   <channel id="35">
-    <display-name lang="th">7 เอชดี</display-name>
+    <display-name lang="th">Channel 7 HD</display-name>
   </channel>
   <channel id="36">
-    <display-name lang="th">พีพีทีวี เอชดี</display-name>
+    <display-name lang="th">PPTV HD</display-name>
   </channel>
-  <channel id="101">
-    <display-name lang="th">เอชบีโอ (HBO)</display-name>
-  </channel>
-  <channel id="102">
-    <display-name lang="th">เอชบีโอ ซิกเนเจอร์</display-name>
-  </channel>
-  <channel id="103">
-    <display-name lang="th">เอชบีโอ ฮิตส์</display-name>
-  </channel>
-  <channel id="104">
-    <display-name lang="th">เอชบีโอ แฟมิลี</display-name>
-  </channel>
-  <channel id="105">
-    <display-name lang="th">ซิเนแม็กซ์</display-name>
-  </channel>
-  <channel id="106">
-    <display-name lang="th">เอเชียน ฮิตส์</display-name>
-  </channel>
-  <channel id="107">
-    <display-name lang="th">วอร์เนอร์ ทีวี</display-name>
-  </channel>
-  <channel id="108">
-    <display-name lang="th">โมโน29 พลัส</display-name>
-  </channel>
-  <channel id="109">
-    <display-name lang="th">ร็อค แอ็กชัน</display-name>
-  </channel>
-  <channel id="110">
-    <display-name lang="th">ร็อค เอ็นเตอร์เทนเม้น</display-name>
-  </channel>
-  <channel id="201">
-    <display-name lang="th">การ์ตูนเน็ตเวิร์ค</display-name>
-  </channel>
-  <channel id="202">
-    <display-name lang="th">การ์ตูนิโต</display-name>
-  </channel>
-  <channel id="203">
-    <display-name lang="th">นิคโคโลเดียน</display-name>
-  </channel>
-  <channel id="204">
-    <display-name lang="th">นิคจูเนียร์</display-name>
-  </channel>
-  <channel id="205">
-    <display-name lang="th">บูมเมอแรง</display-name>
-  </channel>
-  <channel id="301">
-    <display-name lang="th">ฟู้ดเน็ตเวิร์ค</display-name>
-  </channel>
-  <channel id="302">
-    <display-name lang="th">เอเชี่ยน ฟู้ด เน็ตเวิร์ค</display-name>
-  </channel>
-  <channel id="303">
-    <display-name lang="th">ทีแอลซี</display-name>
-  </channel>
-  <channel id="310">
-    <display-name lang="th">ดิสคัฟเวอรี่</display-name>
-  </channel>
-  <channel id="311">
-    <display-name lang="th">สำรวจโลก</display-name>
-  </channel>
-  <channel id="312">
-    <display-name lang="th">แอนิมอล โชว์</display-name>
-  </channel>
-  <channel id="401">
-    <display-name lang="th">เพลย์สปอร์ต 1</display-name>
-  </channel>
-  <channel id="402">
-    <display-name lang="th">เพลย์สปอร์ต 2</display-name>
-  </channel>
-  <channel id="410">
-    <display-name lang="th">MUTV</display-name>
-  </channel>
-  <channel id="601">
-    <display-name lang="th">ซีเอ็นเอ็น</display-name>
-  </channel>
-  <channel id="602">
-    <display-name lang="th">บีบีซี นิวส์</display-name>
-  </channel>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="2">
-    <title lang="th">ผังรายการสด - เอ็นบีที 2 เอชดี</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง เอ็นบีที 2 เอชดี</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="3">
-    <title lang="th">ผังรายการสด - ไทยพีบีเอส เอชดี</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง ไทยพีบีเอส เอชดี</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="5">
-    <title lang="th">ผังรายการสด - 5 เอชดี</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง 5 เอชดี</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="7">
-    <title lang="th">ผังรายการสด - ทีสปอร์ต 7</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง ทีสปอร์ต 7</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="10">
-    <title lang="th">ผังรายการสด - สถานีวิทยุโทรทัศน์รัฐสภา</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง สถานีวิทยุโทรทัศน์รัฐสภา</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="16">
-    <title lang="th">ผังรายการสด - ทีเอ็นเอ็น</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง ทีเอ็นเอ็น</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="22">
-    <title lang="th">ผังรายการสด - เนชั่น ชาแนล</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง เนชั่น ชาแนล</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="23">
-    <title lang="th">ผังรายการสด - เวิร์คพอยท์</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง เวิร์คพอยท์</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="24">
-    <title lang="th">ผังรายการสด - ทรูโฟร์ยู</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง ทรูโฟร์ยู</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="25">
-    <title lang="th">ผังรายการสด - จีเอ็มเอ็ม 25</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง จีเอ็มเอ็ม 25</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="27">
-    <title lang="th">ผังรายการสด - ช่อง 8</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง ช่อง 8</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="29">
-    <title lang="th">ผังรายการสด - โมโนแมกซ์ สปอร์ตส์</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง โมโนแมกซ์ สปอร์ตส์</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="30">
-    <title lang="th">ผังรายการสด - เอ็มคอท เอชดี 30</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง เอ็มคอท เอชดี 30</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="31">
-    <title lang="th">ผังรายการสด - วัน เอชดี 31</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง วัน เอชดี 31</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="32">
-    <title lang="th">ผังรายการสด - ไทยรัฐทีวี เอชดี</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง ไทยรัฐทีวี เอชดี</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="33">
-    <title lang="th">ผังรายการสด - 3 เอชดี</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง 3 เอชดี</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="34">
-    <title lang="th">ผังรายการสด - อมรินทร์ ทีวี เอชดี</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง อมรินทร์ ทีวี เอชดี</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="35">
-    <title lang="th">ผังรายการสด - 7 เอชดี</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง 7 เอชดี</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="36">
-    <title lang="th">ผังรายการสด - พีพีทีวี เอชดี</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง พีพีทีวี เอชดี</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="101">
-    <title lang="th">ผังรายการสด - เอชบีโอ (HBO)</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง เอชบีโอ (HBO)</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="102">
-    <title lang="th">ผังรายการสด - เอชบีโอ ซิกเนเจอร์</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง เอชบีโอ ซิกเนเจอร์</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="103">
-    <title lang="th">ผังรายการสด - เอชบีโอ ฮิตส์</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง เอชบีโอ ฮิตส์</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="104">
-    <title lang="th">ผังรายการสด - เอชบีโอ แฟมิลี</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง เอชบีโอ แฟมิลี</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="105">
-    <title lang="th">ผังรายการสด - ซิเนแม็กซ์</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง ซิเนแม็กซ์</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="106">
-    <title lang="th">ผังรายการสด - เอเชียน ฮิตส์</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง เอเชียน ฮิตส์</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="107">
-    <title lang="th">ผังรายการสด - วอร์เนอร์ ทีวี</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง วอร์เนอร์ ทีวี</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="108">
-    <title lang="th">ผังรายการสด - โมโน29 พลัส</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง โมโน29 พลัส</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="109">
-    <title lang="th">ผังรายการสด - ร็อค แอ็กชัน</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง ร็อค แอ็กชัน</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="110">
-    <title lang="th">ผังรายการสด - ร็อค เอ็นเตอร์เทนเม้น</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง ร็อค เอ็นเตอร์เทนเม้น</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="201">
-    <title lang="th">ผังรายการสด - การ์ตูนเน็ตเวิร์ค</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง การ์ตูนเน็ตเวิร์ค</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="202">
-    <title lang="th">ผังรายการสด - การ์ตูนิโต</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง การ์ตูนิโต</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="203">
-    <title lang="th">ผังรายการสด - นิคโคโลเดียน</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง นิคโคโลเดียน</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="204">
-    <title lang="th">ผังรายการสด - นิคจูเนียร์</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง นิคจูเนียร์</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="205">
-    <title lang="th">ผังรายการสด - บูมเมอแรง</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง บูมเมอแรง</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="301">
-    <title lang="th">ผังรายการสด - ฟู้ดเน็ตเวิร์ค</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง ฟู้ดเน็ตเวิร์ค</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="302">
-    <title lang="th">ผังรายการสด - เอเชี่ยน ฟู้ด เน็ตเวิร์ค</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง เอเชี่ยน ฟู้ด เน็ตเวิร์ค</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="303">
-    <title lang="th">ผังรายการสด - ทีแอลซี</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง ทีแอลซี</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="310">
-    <title lang="th">ผังรายการสด - ดิสคัฟเวอรี่</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง ดิสคัฟเวอรี่</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="311">
-    <title lang="th">ผังรายการสด - สำรวจโลก</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง สำรวจโลก</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="312">
-    <title lang="th">ผังรายการสด - แอนิมอล โชว์</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง แอนิมอล โชว์</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="401">
-    <title lang="th">ผังรายการสด - เพลย์สปอร์ต 1</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง เพลย์สปอร์ต 1</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="402">
-    <title lang="th">ผังรายการสด - เพลย์สปอร์ต 2</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง เพลย์สปอร์ต 2</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="410">
-    <title lang="th">ผังรายการสด - MUTV</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง MUTV</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="601">
-    <title lang="th">ผังรายการสด - ซีเอ็นเอ็น</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง ซีเอ็นเอ็น</desc>
-  </programme>
-  <programme start="20261113060000 +0700" stop="20261114060000 +0700" channel="602">
-    <title lang="th">ผังรายการสด - บีบีซี นิวส์</title>
-    <desc lang="th">ดึงข้อมูลผังรายการอัปเดตอัตโนมัติจาก Open-EPG สำหรับช่อง บีบีซี นิวส์</desc>
-  </programme>
 </tv>
