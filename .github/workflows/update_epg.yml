@@ -2,8 +2,8 @@ name: Update EPG Daily
 
 on:
   schedule:
-    - cron: '0 0 * * *' # รันทุกๆ เที่ยงคืนของทุกวัน
-  workflow_dispatch: # ให้กดรันมือเองได้ด้วย
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -18,7 +18,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '20' # หรือเปลี่ยนเป็น '22' หรือ '24' ตามต้องการ
 
       - name: Install dependencies
         run: npm install
