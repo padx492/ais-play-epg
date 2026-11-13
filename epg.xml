@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="AISPLAY-OpenEPG-Real">
   <channel id="2">
-    <display-name lang="th">NBT</display-name>
+    <display-name lang="th">NBT 2 HD</display-name>
   </channel>
   <channel id="3">
-    <display-name lang="th">Thai PBS</display-name>
+    <display-name lang="th">Thai PBS HD</display-name>
   </channel>
   <channel id="5">
     <display-name lang="th">TV5 HD</display-name>
   </channel>
   <channel id="7">
     <display-name lang="th">T Sports 7</display-name>
+  </channel>
+  <channel id="10">
+    <display-name lang="th">สถานีวิทยุโทรทัศน์รัฐสภา</display-name>
   </channel>
   <channel id="16">
     <display-name lang="th">TNN16</display-name>
@@ -29,6 +32,9 @@
   </channel>
   <channel id="27">
     <display-name lang="th">Channel 8</display-name>
+  </channel>
+  <channel id="29">
+    <display-name lang="th">Mono29</display-name>
   </channel>
   <channel id="30">
     <display-name lang="th">MCOT HD</display-name>
@@ -54,6 +60,173 @@
   <channel id="101">
     <display-name lang="th">HBO</display-name>
   </channel>
+  <channel id="102">
+    <display-name lang="th">HBO Signature</display-name>
+  </channel>
+  <channel id="103">
+    <display-name lang="th">HBO Hits</display-name>
+  </channel>
+  <channel id="104">
+    <display-name lang="th">HBO Family</display-name>
+  </channel>
+  <channel id="105">
+    <display-name lang="th">Cinemax</display-name>
+  </channel>
+  <channel id="109">
+    <display-name lang="th">Warner TV</display-name>
+  </channel>
+  <channel id="111">
+    <display-name lang="th">ROCK Action</display-name>
+  </channel>
+  <channel id="112">
+    <display-name lang="th">ROCK Entertainment</display-name>
+  </channel>
+  <channel id="113">
+    <display-name lang="th">Thrill</display-name>
+  </channel>
+  <channel id="114">
+    <display-name lang="th">Celestial Movies</display-name>
+  </channel>
+  <channel id="201">
+    <display-name lang="th">3BB Asian</display-name>
+  </channel>
+  <channel id="202">
+    <display-name lang="th">3BB Asian+</display-name>
+  </channel>
+  <channel id="301">
+    <display-name lang="th">Cartoon Network</display-name>
+  </channel>
+  <channel id="302">
+    <display-name lang="th">Boomerang</display-name>
+  </channel>
+  <channel id="303">
+    <display-name lang="th">Disney Channel</display-name>
+  </channel>
+  <channel id="304">
+    <display-name lang="th">Nickelodeon</display-name>
+  </channel>
+  <channel id="401">
+    <display-name lang="th">AIS PLAY Sport 1</display-name>
+  </channel>
+  <channel id="402">
+    <display-name lang="th">AIS PLAY Sport 2</display-name>
+  </channel>
+  <channel id="403">
+    <display-name lang="th">Eurosport 1</display-name>
+  </channel>
+  <channel id="404">
+    <display-name lang="th">beIN Sports</display-name>
+  </channel>
+  <channel id="601">
+    <display-name lang="th">CNN</display-name>
+  </channel>
+  <channel id="602">
+    <display-name lang="th">BBC News</display-name>
+  </channel>
+  <programme start="20261112170000 +0000" stop="20261112190000 +0000" channel="201">
+    <title lang="th">PRINCESS AT LARGE SEASON 2 พระชายาลอยนวล ปี 2 ( ตอน 3-4)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112190000 +0000" stop="20261112210000 +0000" channel="201">
+    <title lang="th">THE BLUE WHISPER ทาสปีศาจ (ตอน 11-12)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112210000 +0000" stop="20261112230000 +0000" channel="201">
+    <title lang="th">PEACOCK IN WONDERLAND อัศจรรย์รักยัยทูตนกยูง (ตอน 19-21)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112230000 +0000" stop="20261113010000 +0000" channel="201">
+    <title lang="th">FANGS OF FORTUNE ชะตาฝัน ลิขิตหวนคืน (ตอน 25-26)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113010000 +0000" stop="20261113030000 +0000" channel="201">
+    <title lang="th">PRINCESS AT LARGE SEASON 2 พระชายาลอยนวล ปี 2 ( ตอน 5-6)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113030000 +0000" stop="20261113050000 +0000" channel="201">
+    <title lang="th">FIGHTER OF THE DESTINY พลิกขอบฟ้า ท้าลิขิตสวรรค์ (ตอน 15-16)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113050000 +0000" stop="20261113070000 +0000" channel="201">
+    <title lang="th">ETERNAL LOVE สามชาติสามภพ ป่าท้อสิบหลี่ (ตอน 21-22)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113070000 +0000" stop="20261113090000 +0000" channel="201">
+    <title lang="th">FANGS OF FORTUNE ชะตาฝัน ลิขิตหวนคืน (ตอน 27-28)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113090000 +0000" stop="20261113110000 +0000" channel="201">
+    <title lang="th">PEACOCK IN WONDERLAND อัศจรรย์รักยัยทูตนกยูง (ตอน 22-24)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113110000 +0000" stop="20261113130000 +0000" channel="201">
+    <title lang="th">THE BLUE WHISPER ทาสปีศาจ (ตอน 13-14)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113130000 +0000" stop="20261113150000 +0000" channel="201">
+    <title lang="th">UNDERSELL KILLER ข้า/ฆ่า/ค่า (ตอน 13-14)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113150000 +0000" stop="20261113170000 +0000" channel="201">
+    <title lang="th">ETERNAL LOVE สามชาติสามภพ ป่าท้อสิบหลี่ (ตอน 21-22)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113170000 +0000" stop="20261113190000 +0000" channel="201">
+    <title lang="th">PRINCESS AT LARGE SEASON 2 พระชายาลอยนวล ปี 2 ( ตอน 5-6)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113190000 +0000" stop="20261113210000 +0000" channel="201">
+    <title lang="th">THE BLUE WHISPER ทาสปีศาจ (ตอน 13-14)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113210000 +0000" stop="20261113230000 +0000" channel="201">
+    <title lang="th">PEACOCK IN WONDERLAND อัศจรรย์รักยัยทูตนกยูง (ตอน 22-24)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113230000 +0000" stop="20261114010000 +0000" channel="201">
+    <title lang="th">FANGS OF FORTUNE ชะตาฝัน ลิขิตหวนคืน (ตอน 27-28)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114010000 +0000" stop="20261114030000 +0000" channel="201">
+    <title lang="th">PRINCESS AT LARGE SEASON 2 พระชายาลอยนวล ปี 2 ( ตอน 7-8)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114030000 +0000" stop="20261114050000 +0000" channel="201">
+    <title lang="th">THE STARRY LOVE ดุจดวงดาว พร่างพราวราวประกายรัก (ตอน 3-4)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114050000 +0000" stop="20261114070000 +0000" channel="201">
+    <title lang="th">ETERNAL LOVE สามชาติสามภพ ป่าท้อสิบหลี่ (ตอน 23-24)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114070000 +0000" stop="20261114090000 +0000" channel="201">
+    <title lang="th">DEAR HYERI ฮเยรี รักนี้มีไว้เพื่อเธอ (ตอน 5-6)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114090000 +0000" stop="20261114110000 +0000" channel="201">
+    <title lang="th">PEACOCK IN WONDERLAND อัศจรรย์รักยัยทูตนกยูง (ตอน 25-27)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114110000 +0000" stop="20261114130000 +0000" channel="201">
+    <title lang="th">THE BLUE WHISPER ทาสปีศาจ (ตอน 15-16)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114130000 +0000" stop="20261114150000 +0000" channel="201">
+    <title lang="th">THE TRUST ลำนำรักสลับร่าง (ตอน 5-6)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114150000 +0000" stop="20261114170000 +0000" channel="201">
+    <title lang="th">ETERNAL LOVE สามชาติสามภพ ป่าท้อสิบหลี่ (ตอน 23-24)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114170000 +0000" stop="20261114190000 +0000" channel="201">
+    <title lang="th">PRINCESS AT LARGE SEASON 2 พระชายาลอยนวล ปี 2 ( ตอน 7-8)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114190000 +0000" stop="20261114210000 +0000" channel="201">
+    <title lang="th">THE BLUE WHISPER ทาสปีศาจ (ตอน 15-16)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
   <programme start="20261112170000 +0000" stop="20261112173000 +0000" channel="34">
     <title lang="th">ตามอำเภอจาน AD CC</title>
     <desc lang="th">ไม่มีรายละเอียด</desc>
@@ -402,6 +575,862 @@
     <title lang="th">กินไปทั่ว มั่วบ้านงาน AD CC</title>
     <desc lang="th">ไม่มีรายละเอียด</desc>
   </programme>
+  <programme start="20261112170000 +0000" stop="20261112175500 +0000" channel="202">
+    <title lang="th">A Taste Of Festival (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112175500 +0000" stop="20261112182000 +0000" channel="202">
+    <title lang="th">From The Source (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112182000 +0000" stop="20261112185000 +0000" channel="202">
+    <title lang="th">From The Source (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112185000 +0000" stop="20261112194500 +0000" channel="202">
+    <title lang="th">A Sweet Taste Of Art (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112194500 +0000" stop="20261112201000 +0000" channel="202">
+    <title lang="th">Spice Whisperer (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112201000 +0000" stop="20261112204000 +0000" channel="202">
+    <title lang="th">Spice Whisperer (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112204000 +0000" stop="20261112210500 +0000" channel="202">
+    <title lang="th">The Chocolate Queen (S6)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112210500 +0000" stop="20261112213500 +0000" channel="202">
+    <title lang="th">The Chocolate Queen (S6)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112213500 +0000" stop="20261112223000 +0000" channel="202">
+    <title lang="th">A Sweet Taste Of Art (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112223000 +0000" stop="20261112230000 +0000" channel="202">
+    <title lang="th">Spice Whisperer (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112230000 +0000" stop="20261112232500 +0000" channel="202">
+    <title lang="th">French Gourmet With Justine Schofield (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112232500 +0000" stop="20261112235000 +0000" channel="202">
+    <title lang="th">French Gourmet With Justine Schofield (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112235000 +0000" stop="20261113001500 +0000" channel="202">
+    <title lang="th">Axian&apos;s Restaurant Trails (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113001500 +0000" stop="20261113004500 +0000" channel="202">
+    <title lang="th">Axian&apos;s Restaurant Trails (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113004500 +0000" stop="20261113011000 +0000" channel="202">
+    <title lang="th">From The Source (S2)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113011000 +0000" stop="20261113014000 +0000" channel="202">
+    <title lang="th">From The Source (S2)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113014000 +0000" stop="20261113023500 +0000" channel="202">
+    <title lang="th">Makan On Wheels (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113023500 +0000" stop="20261113030000 +0000" channel="202">
+    <title lang="th">Good Chef Bad Chef (S15)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113030000 +0000" stop="20261113033000 +0000" channel="202">
+    <title lang="th">Good Chef Bad Chef (S15)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113033000 +0000" stop="20261113035500 +0000" channel="202">
+    <title lang="th">Cooking With Choi (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113035500 +0000" stop="20261113042500 +0000" channel="202">
+    <title lang="th">Secrets Of The Curry Kitchen (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113042500 +0000" stop="20261113045000 +0000" channel="202">
+    <title lang="th">From The Source (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113045000 +0000" stop="20261113052000 +0000" channel="202">
+    <title lang="th">From The Source (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113052000 +0000" stop="20261113054500 +0000" channel="202">
+    <title lang="th">Axian&apos;s Restaurant Trails (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113054500 +0000" stop="20261113061500 +0000" channel="202">
+    <title lang="th">Axian&apos;s Restaurant Trails (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113061500 +0000" stop="20261113064000 +0000" channel="202">
+    <title lang="th">Spice Whisperer (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113064000 +0000" stop="20261113071000 +0000" channel="202">
+    <title lang="th">Spice Whisperer (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113071000 +0000" stop="20261113080500 +0000" channel="202">
+    <title lang="th">A Sweet Taste Of Art (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113080500 +0000" stop="20261113090000 +0000" channel="202">
+    <title lang="th">Makan On Wheels (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113090000 +0000" stop="20261113093000 +0000" channel="202">
+    <title lang="th">Good Chef Bad Chef (S15)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113093000 +0000" stop="20261113100000 +0000" channel="202">
+    <title lang="th">Good Chef Bad Chef (S15)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113100000 +0000" stop="20261113103000 +0000" channel="202">
+    <title lang="th">Food Entrepreneurs (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113103000 +0000" stop="20261113110000 +0000" channel="202">
+    <title lang="th">Food Entrepreneurs (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113110000 +0000" stop="20261113113000 +0000" channel="202">
+    <title lang="th">John Torode&apos;s Asia (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113113000 +0000" stop="20261113120000 +0000" channel="202">
+    <title lang="th">John Torode&apos;s Asia (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113120000 +0000" stop="20261113123000 +0000" channel="202">
+    <title lang="th">Axian&apos;s Restaurant Trails (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113123000 +0000" stop="20261113130000 +0000" channel="202">
+    <title lang="th">Axian&apos;s Restaurant Trails (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113130000 +0000" stop="20261113133000 +0000" channel="202">
+    <title lang="th">From The Source (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113133000 +0000" stop="20261113140000 +0000" channel="202">
+    <title lang="th">From The Source (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113140000 +0000" stop="20261113150000 +0000" channel="202">
+    <title lang="th">Haenyeo&apos;s Table (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113150000 +0000" stop="20261113153000 +0000" channel="202">
+    <title lang="th">From The Source (S2)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113153000 +0000" stop="20261113160000 +0000" channel="202">
+    <title lang="th">From The Source (S2)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113160000 +0000" stop="20261113163000 +0000" channel="202">
+    <title lang="th">Axian&apos;s Restaurant Trails (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113163000 +0000" stop="20261113170000 +0000" channel="202">
+    <title lang="th">Axian&apos;s Restaurant Trails (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113170000 +0000" stop="20261113175500 +0000" channel="202">
+    <title lang="th">Love In A Pot (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113175500 +0000" stop="20261113182000 +0000" channel="202">
+    <title lang="th">French Gourmet With Justine Schofield (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113182000 +0000" stop="20261113185000 +0000" channel="202">
+    <title lang="th">French Gourmet With Justine Schofield (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113185000 +0000" stop="20261113191500 +0000" channel="202">
+    <title lang="th">Cooking With Choi (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113191500 +0000" stop="20261113194500 +0000" channel="202">
+    <title lang="th">Secrets Of The Curry Kitchen (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113194500 +0000" stop="20261113201000 +0000" channel="202">
+    <title lang="th">From The Source (S2)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113201000 +0000" stop="20261113204000 +0000" channel="202">
+    <title lang="th">From The Source (S2)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113204000 +0000" stop="20261113213500 +0000" channel="202">
+    <title lang="th">Haenyeo&apos;s Table (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113213500 +0000" stop="20261113220000 +0000" channel="202">
+    <title lang="th">Cooking With Choi (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113220000 +0000" stop="20261113223000 +0000" channel="202">
+    <title lang="th">Secrets Of The Curry Kitchen (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113223000 +0000" stop="20261113230000 +0000" channel="202">
+    <title lang="th">From The Source (S2)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113230000 +0000" stop="20261113235000 +0000" channel="202">
+    <title lang="th">Makan On Wheels (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113235000 +0000" stop="20261114001500 +0000" channel="202">
+    <title lang="th">Axian&apos;s Restaurant Trails (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114001500 +0000" stop="20261114004500 +0000" channel="202">
+    <title lang="th">Axian&apos;s Restaurant Trails (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114004500 +0000" stop="20261114011000 +0000" channel="202">
+    <title lang="th">From The Source (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114011000 +0000" stop="20261114014000 +0000" channel="202">
+    <title lang="th">From The Source (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114014000 +0000" stop="20261114020500 +0000" channel="202">
+    <title lang="th">Cooking With Choi (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114020500 +0000" stop="20261114023500 +0000" channel="202">
+    <title lang="th">Secrets Of The Curry Kitchen (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114023500 +0000" stop="20261114030000 +0000" channel="202">
+    <title lang="th">Good Chef Bad Chef (S15)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114030000 +0000" stop="20261114033000 +0000" channel="202">
+    <title lang="th">Good Chef Bad Chef (S15)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114033000 +0000" stop="20261114042500 +0000" channel="202">
+    <title lang="th">A Sweet Taste Of Art (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114042500 +0000" stop="20261114045000 +0000" channel="202">
+    <title lang="th">Food Entrepreneurs (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114045000 +0000" stop="20261114052000 +0000" channel="202">
+    <title lang="th">Food Entrepreneurs (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114052000 +0000" stop="20261114054500 +0000" channel="202">
+    <title lang="th">Axian&apos;s Restaurant Trails (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114054500 +0000" stop="20261114061500 +0000" channel="202">
+    <title lang="th">Axian&apos;s Restaurant Trails (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114061500 +0000" stop="20261114064000 +0000" channel="202">
+    <title lang="th">French Gourmet With Justine Schofield (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114064000 +0000" stop="20261114071000 +0000" channel="202">
+    <title lang="th">French Gourmet With Justine Schofield (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114071000 +0000" stop="20261114080500 +0000" channel="202">
+    <title lang="th">Makan On Wheels (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114080500 +0000" stop="20261114083000 +0000" channel="202">
+    <title lang="th">Cooking With Choi (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114083000 +0000" stop="20261114090000 +0000" channel="202">
+    <title lang="th">Secrets Of The Curry Kitchen (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114090000 +0000" stop="20261114093000 +0000" channel="202">
+    <title lang="th">Good Chef Bad Chef (S15)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114093000 +0000" stop="20261114100000 +0000" channel="202">
+    <title lang="th">Good Chef Bad Chef (S15)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114100000 +0000" stop="20261114103000 +0000" channel="202">
+    <title lang="th">From The Source (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114103000 +0000" stop="20261114110000 +0000" channel="202">
+    <title lang="th">From The Source (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114110000 +0000" stop="20261114113000 +0000" channel="202">
+    <title lang="th">From The Source (S2)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114113000 +0000" stop="20261114120000 +0000" channel="202">
+    <title lang="th">From The Source (S2)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114120000 +0000" stop="20261114123000 +0000" channel="202">
+    <title lang="th">Food Entrepreneurs (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114123000 +0000" stop="20261114130000 +0000" channel="202">
+    <title lang="th">Food Entrepreneurs (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114130000 +0000" stop="20261114140000 +0000" channel="202">
+    <title lang="th">Haenyeo&apos;s Table (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114140000 +0000" stop="20261114143000 +0000" channel="202">
+    <title lang="th">The Chocolate Queen (S6)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114143000 +0000" stop="20261114150000 +0000" channel="202">
+    <title lang="th">The Chocolate Queen (S6)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114150000 +0000" stop="20261114153000 +0000" channel="202">
+    <title lang="th">Spice Whisperer (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114153000 +0000" stop="20261114160000 +0000" channel="202">
+    <title lang="th">Spice Whisperer (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114160000 +0000" stop="20261114170000 +0000" channel="202">
+    <title lang="th">A Sweet Taste Of Art (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114170000 +0000" stop="20261114172500 +0000" channel="202">
+    <title lang="th">Cooking With Choi (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114172500 +0000" stop="20261114175500 +0000" channel="202">
+    <title lang="th">Secrets Of The Curry Kitchen (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114175500 +0000" stop="20261114185000 +0000" channel="202">
+    <title lang="th">Makan On Wheels (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114185000 +0000" stop="20261114191500 +0000" channel="202">
+    <title lang="th">John Torode&apos;s Asia (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114191500 +0000" stop="20261114194500 +0000" channel="202">
+    <title lang="th">John Torode&apos;s Asia (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114194500 +0000" stop="20261114201000 +0000" channel="202">
+    <title lang="th">From The Source (S1)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112170000 +0000" stop="20261112180000 +0000" channel="302">
+    <title lang="th">Super Wings S6</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112180000 +0000" stop="20261112190000 +0000" channel="302">
+    <title lang="th">Wheewheel</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112190000 +0000" stop="20261112200000 +0000" channel="302">
+    <title lang="th">Hello Jadoo S2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112200000 +0000" stop="20261112210000 +0000" channel="302">
+    <title lang="th">My Little Pony: Friendship Is Magic S2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112210000 +0000" stop="20261112220000 +0000" channel="302">
+    <title lang="th">Boonie Cubs S2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112220000 +0000" stop="20261112223000 +0000" channel="302">
+    <title lang="th">The Smurf</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112223000 +0000" stop="20261112230000 +0000" channel="302">
+    <title lang="th">GG Bond : Racing S6</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112230000 +0000" stop="20261112233000 +0000" channel="302">
+    <title lang="th">New Adtventure of Peter Pan</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112233000 +0000" stop="20261113000000 +0000" channel="302">
+    <title lang="th">Rat A Tat</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113000000 +0000" stop="20261113003000 +0000" channel="302">
+    <title lang="th">Riseman S1</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113003000 +0000" stop="20261113010000 +0000" channel="302">
+    <title lang="th">Boonie Cubs S2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113010000 +0000" stop="20261113013000 +0000" channel="302">
+    <title lang="th">New Adtventure of Peter Pan</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113013000 +0000" stop="20261113020000 +0000" channel="302">
+    <title lang="th">The Garfield Show S2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113020000 +0000" stop="20261113023000 +0000" channel="302">
+    <title lang="th">Totally Sprie</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113023000 +0000" stop="20261113030000 +0000" channel="302">
+    <title lang="th">Infinity Nado S7</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113030000 +0000" stop="20261113033000 +0000" channel="302">
+    <title lang="th">The Smurf</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113033000 +0000" stop="20261113040000 +0000" channel="302">
+    <title lang="th">Strawberry Shortcake Berry Bitty Adventures</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113040000 +0000" stop="20261113043000 +0000" channel="302">
+    <title lang="th">Johnny Test</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113043000 +0000" stop="20261113050000 +0000" channel="302">
+    <title lang="th">GG Bond : Racing S6</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113050000 +0000" stop="20261113053000 +0000" channel="302">
+    <title lang="th">Teletubbies</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113053000 +0000" stop="20261113060000 +0000" channel="302">
+    <title lang="th">Chowder</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113060000 +0000" stop="20261113063000 +0000" channel="302">
+    <title lang="th">Hello Jadoo S2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113063000 +0000" stop="20261113070000 +0000" channel="302">
+    <title lang="th">Fay&amp;Tom + Gogobus S3</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113070000 +0000" stop="20261113073000 +0000" channel="302">
+    <title lang="th">The Garfield Show S2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113073000 +0000" stop="20261113080000 +0000" channel="302">
+    <title lang="th">Boonie Cubs S2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113080000 +0000" stop="20261113083000 +0000" channel="302">
+    <title lang="th">Totally Sprie</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113083000 +0000" stop="20261113090000 +0000" channel="302">
+    <title lang="th">The Smurf</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113090000 +0000" stop="20261113093000 +0000" channel="302">
+    <title lang="th">Kreepy Bizarre Tales</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113093000 +0000" stop="20261113100000 +0000" channel="302">
+    <title lang="th">Riseman S1</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113100000 +0000" stop="20261113103000 +0000" channel="302">
+    <title lang="th">GG Bond : Racing S6</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113103000 +0000" stop="20261113110000 +0000" channel="302">
+    <title lang="th">Rat A Tat</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113110000 +0000" stop="20261113113000 +0000" channel="302">
+    <title lang="th">Katuri + Snowking</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113113000 +0000" stop="20261113120000 +0000" channel="302">
+    <title lang="th">Strawberry Shortcake Berry Bitty Adventures</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113120000 +0000" stop="20261113123000 +0000" channel="302">
+    <title lang="th">Boonie Cubs S2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113123000 +0000" stop="20261113130000 +0000" channel="302">
+    <title lang="th">My Little Pony: Friendship Is Magic S2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113130000 +0000" stop="20261113133000 +0000" channel="302">
+    <title lang="th">Totally Sprie</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113133000 +0000" stop="20261113140000 +0000" channel="302">
+    <title lang="th">Riseman S1</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113140000 +0000" stop="20261113143000 +0000" channel="302">
+    <title lang="th">Chowder</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113143000 +0000" stop="20261113150000 +0000" channel="302">
+    <title lang="th">Teletubbies</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113150000 +0000" stop="20261113153000 +0000" channel="302">
+    <title lang="th">The Smurf</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113153000 +0000" stop="20261113160000 +0000" channel="302">
+    <title lang="th">The Garfield Show S2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113160000 +0000" stop="20261113163000 +0000" channel="302">
+    <title lang="th">New Adtventure of Peter Pan</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113163000 +0000" stop="20261113170000 +0000" channel="302">
+    <title lang="th">Boom Animal World</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113170000 +0000" stop="20261113180000 +0000" channel="302">
+    <title lang="th">Super Wings S6</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113180000 +0000" stop="20261113190000 +0000" channel="302">
+    <title lang="th">Wheewheel</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113190000 +0000" stop="20261113200000 +0000" channel="302">
+    <title lang="th">Hello Jadoo S2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113200000 +0000" stop="20261113210000 +0000" channel="302">
+    <title lang="th">My Little Pony: Friendship Is Magic S2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113210000 +0000" stop="20261113220000 +0000" channel="302">
+    <title lang="th">Boonie Cubs S2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113220000 +0000" stop="20261113223000 +0000" channel="302">
+    <title lang="th">Robocar Poli S5</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113223000 +0000" stop="20261113230000 +0000" channel="302">
+    <title lang="th">Johnny Test</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113230000 +0000" stop="20261113233000 +0000" channel="302">
+    <title lang="th">The Smurf</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113233000 +0000" stop="20261114000000 +0000" channel="302">
+    <title lang="th">New Adtventure of Peter Pan</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114000000 +0000" stop="20261114003000 +0000" channel="302">
+    <title lang="th">Boonie Cubs S2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114003000 +0000" stop="20261114010000 +0000" channel="302">
+    <title lang="th">Strawberry Shortcake Berry Bitty Adventures</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114010000 +0000" stop="20261114013000 +0000" channel="302">
+    <title lang="th">Riseman S1</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114013000 +0000" stop="20261114020000 +0000" channel="302">
+    <title lang="th">Infinity Nado S7</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114020000 +0000" stop="20261114023000 +0000" channel="302">
+    <title lang="th">Teletubbies</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114023000 +0000" stop="20261114030000 +0000" channel="302">
+    <title lang="th">The Garfield Show S2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114030000 +0000" stop="20261114033000 +0000" channel="302">
+    <title lang="th">Totally Sprie</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114033000 +0000" stop="20261114040000 +0000" channel="302">
+    <title lang="th">Kreepy Bizarre Tales</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114040000 +0000" stop="20261114043000 +0000" channel="302">
+    <title lang="th">Teletubbies</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114043000 +0000" stop="20261114050000 +0000" channel="302">
+    <title lang="th">Johnny Test</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114050000 +0000" stop="20261114053000 +0000" channel="302">
+    <title lang="th">Riseman S1</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114053000 +0000" stop="20261114060000 +0000" channel="302">
+    <title lang="th">Super Wings S8</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114060000 +0000" stop="20261114063000 +0000" channel="302">
+    <title lang="th">Boonie Cubs S2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114063000 +0000" stop="20261114070000 +0000" channel="302">
+    <title lang="th">Hello Jadoo S2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114070000 +0000" stop="20261114073000 +0000" channel="302">
+    <title lang="th">My Little Pony: Friendship Is Magic S2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114073000 +0000" stop="20261114080000 +0000" channel="302">
+    <title lang="th">Strawberry Shortcake Berry Bitty Adventures</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114080000 +0000" stop="20261114083000 +0000" channel="302">
+    <title lang="th">Katuri + Snowking</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114083000 +0000" stop="20261114090000 +0000" channel="302">
+    <title lang="th">The Smurf</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114090000 +0000" stop="20261114093000 +0000" channel="302">
+    <title lang="th">GG Bond : Racing S6</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114093000 +0000" stop="20261114100000 +0000" channel="302">
+    <title lang="th">Robocar Poli S5</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114100000 +0000" stop="20261114103000 +0000" channel="302">
+    <title lang="th">Kreepy Bizarre Tales</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114103000 +0000" stop="20261114110000 +0000" channel="302">
+    <title lang="th">Hello Jadoo S2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114110000 +0000" stop="20261114113000 +0000" channel="302">
+    <title lang="th">Riseman S1</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114113000 +0000" stop="20261114120000 +0000" channel="302">
+    <title lang="th">My Little Pony: Friendship Is Magic S2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114120000 +0000" stop="20261114123000 +0000" channel="302">
+    <title lang="th">Boonie Cubs S2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114123000 +0000" stop="20261114130000 +0000" channel="302">
+    <title lang="th">The Snoopy Show</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114130000 +0000" stop="20261114133000 +0000" channel="302">
+    <title lang="th">The Garfield Show S2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114133000 +0000" stop="20261114140000 +0000" channel="302">
+    <title lang="th">Teletubbies</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114140000 +0000" stop="20261114143000 +0000" channel="302">
+    <title lang="th">Strawberry Shortcake Berry Bitty Adventures</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114143000 +0000" stop="20261114150000 +0000" channel="302">
+    <title lang="th">Kreepy Bizarre Tales</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114150000 +0000" stop="20261114153000 +0000" channel="302">
+    <title lang="th">Cardfight Vanguard Will+Dress S1</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114153000 +0000" stop="20261114160000 +0000" channel="302">
+    <title lang="th">Chowder</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114160000 +0000" stop="20261114163000 +0000" channel="302">
+    <title lang="th">Wheewheel</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114163000 +0000" stop="20261114170000 +0000" channel="302">
+    <title lang="th">Boom Animal World</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114170000 +0000" stop="20261114180000 +0000" channel="302">
+    <title lang="th">Super Wings S6</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114180000 +0000" stop="20261114190000 +0000" channel="302">
+    <title lang="th">Wheewheel</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114190000 +0000" stop="20261114200000 +0000" channel="302">
+    <title lang="th">Hello Jadoo S2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114200000 +0000" stop="20261114210000 +0000" channel="302">
+    <title lang="th">My Little Pony: Friendship Is Magic S2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112172000 +0000" stop="20261112190500 +0000" channel="105">
+    <title lang="th">WE&apos;RE THE MILLERS มิลเลอร์ มิลรั่ว ครอบครัวกำมะลอ</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112190500 +0000" stop="20261112203000 +0000" channel="105">
+    <title lang="th">FIST FIGHT</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112203000 +0000" stop="20261112220000 +0000" channel="105">
+    <title lang="th">NOBODY 2 คนธรรมดานรกเรียกพี่ 2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112220000 +0000" stop="20261112233500 +0000" channel="105">
+    <title lang="th">THE GATHERING STORM เดอะ แกเตอริ่ง สตอร์ม</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112233500 +0000" stop="20261113014500 +0000" channel="105">
+    <title lang="th">BURY MY HEART AT WOUNDED KNEE ฝังหัวใจข้าไว้ที่วูนเด็ดนี</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113014500 +0000" stop="20261113032500 +0000" channel="105">
+    <title lang="th">CHANGING LANES</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113032500 +0000" stop="20261113052500 +0000" channel="105">
+    <title lang="th">JURASSIC WORLD จูราสสิค เวิลด์</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113052500 +0000" stop="20261113071500 +0000" channel="105">
+    <title lang="th">KISS THE GIRLS จูบมรณะ</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113071500 +0000" stop="20261113091000 +0000" channel="105">
+    <title lang="th">RECOUNT</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113091000 +0000" stop="20261113105500 +0000" channel="105">
+    <title lang="th">IMAGINE THAT พ่อลูกคู่ใสหัวใจมหัศจรรย์</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113105500 +0000" stop="20261113123000 +0000" channel="105">
+    <title lang="th">PU-239 พลูโทเนียม</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113123000 +0000" stop="20261113140000 +0000" channel="105">
+    <title lang="th">JUNGLELAND สังเวียนชีวิต</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113140000 +0000" stop="20261113153000 +0000" channel="105">
+    <title lang="th">NOBODY 2 คนธรรมดานรกเรียกพี่ 2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113153000 +0000" stop="20261113171500 +0000" channel="105">
+    <title lang="th">WE&apos;RE THE MILLERS มิลเลอร์ มิลรั่ว ครอบครัวกำมะลอ</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113171500 +0000" stop="20261113184500 +0000" channel="105">
+    <title lang="th">FIST FIGHT</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113184500 +0000" stop="20261113202000 +0000" channel="105">
+    <title lang="th">NINJA ASSASSIN แค้นสังหาร เทพบุตรนินจามหากาฬ</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113202000 +0000" stop="20261113220500 +0000" channel="105">
+    <title lang="th">DIRTY ANGELS นางฟ้าพันธุ์ดุ</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113220500 +0000" stop="20261114000000 +0000" channel="105">
+    <title lang="th">KISS THE GIRLS จูบมรณะ</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114000000 +0000" stop="20261114003000 +0000" channel="105">
+    <title lang="th">HOLLYWOOD ON SET S1</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114003000 +0000" stop="20261114023500 +0000" channel="105">
+    <title lang="th">JURASSIC WORLD จูราสสิค เวิลด์</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114023500 +0000" stop="20261114043000 +0000" channel="105">
+    <title lang="th">BUMBLEBEE บัมเบิ้ลบี</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114043000 +0000" stop="20261114061000 +0000" channel="105">
+    <title lang="th">BROTHER NATURE</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114061000 +0000" stop="20261114074000 +0000" channel="105">
+    <title lang="th">JUNGLELAND สังเวียนชีวิต</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114074000 +0000" stop="20261114092000 +0000" channel="105">
+    <title lang="th">PU-239 พลูโทเนียม</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114092000 +0000" stop="20261114095000 +0000" channel="105">
+    <title lang="th">HOLLYWOOD ON SET S1</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114095000 +0000" stop="20261114121000 +0000" channel="105">
+    <title lang="th">TRANSFORMERS มหาวิบัติจักรกลสังหารถล่มจักรวาล</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114121000 +0000" stop="20261114140000 +0000" channel="105">
+    <title lang="th">AMERICAN MADE อเมริกัน เมด</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114140000 +0000" stop="20261114161000 +0000" channel="105">
+    <title lang="th">SE7EN</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114161000 +0000" stop="20261114181500 +0000" channel="105">
+    <title lang="th">NO COUNTRY FOR OLD MEN ล่าคนดุในเมืองเดือด</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114181500 +0000" stop="20261114201500 +0000" channel="105">
+    <title lang="th">THE MANY SAINTS OF NEWARK เดอะเมนี่เซนต์สออฟนวร์ก</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
   <programme start="20261112170000 +0000" stop="20261112180000 +0000" channel="22">
     <title lang="th">One World</title>
     <desc lang="th">ไม่มีรายละเอียด</desc>
@@ -656,6 +1685,170 @@
   </programme>
   <programme start="20261114200000 +0000" stop="20261114210000 +0000" channel="22">
     <title lang="th">CNN Newsroom Saturday</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112170000 +0000" stop="20261112174500 +0000" channel="401">
+    <title lang="th">Cyclo-cross: Superprestige | Niel</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112174500 +0000" stop="20261112183000 +0000" channel="401">
+    <title lang="th">Cyclo-cross: Superprestige | Niel</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112183000 +0000" stop="20261112200000 +0000" channel="401">
+    <title lang="th">Equestrian: Jumping | Rome</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112200000 +0000" stop="20261112210000 +0000" channel="401">
+    <title lang="th">Equestrian: Jumping | Verone</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112210000 +0000" stop="20261112230000 +0000" channel="401">
+    <title lang="th">Trail: Trail: GT WORLD SERIES</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112230000 +0000" stop="20261113010000 +0000" channel="401">
+    <title lang="th">Athletics: Marathon |</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113010000 +0000" stop="20261113014500 +0000" channel="401">
+    <title lang="th">Cyclo-cross: Superprestige | Niel</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113014500 +0000" stop="20261113023000 +0000" channel="401">
+    <title lang="th">Cyclo-cross: Superprestige | Niel</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113023000 +0000" stop="20261113043000 +0000" channel="401">
+    <title lang="th">Athletics: Marathon |</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113043000 +0000" stop="20261113051500 +0000" channel="401">
+    <title lang="th">Cyclo-cross: Superprestige | Niel</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113051500 +0000" stop="20261113060000 +0000" channel="401">
+    <title lang="th">Cyclo-cross: Superprestige | Niel</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113060000 +0000" stop="20261113063000 +0000" channel="401">
+    <title lang="th">Trail: Trail: GT WORLD SERIES</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113063000 +0000" stop="20261113083000 +0000" channel="401">
+    <title lang="th">Athletics: Marathon |</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113083000 +0000" stop="20261113090000 +0000" channel="401">
+    <title lang="th">Mountain Bike: UCI Enduro World Championship | Review</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113090000 +0000" stop="20261113110000 +0000" channel="401">
+    <title lang="th">Endurance Moto Racing: 24 Hours of Le Mans | Race</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113110000 +0000" stop="20261113130000 +0000" channel="401">
+    <title lang="th">Trail: Trail: GT WORLD SERIES</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113130000 +0000" stop="20261113133000 +0000" channel="401">
+    <title lang="th">Mountain Bike: UCI Enduro World Championship | Review</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113133000 +0000" stop="20261113163000 +0000" channel="401">
+    <title lang="th">Powerlifting: Powerlifting: World equipped championship</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113163000 +0000" stop="20261113183000 +0000" channel="401">
+    <title lang="th">Cycling: Grand Prix Cycliste de Montreal</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113183000 +0000" stop="20261113200000 +0000" channel="401">
+    <title lang="th">Equestrian: Jumping | Rome</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113200000 +0000" stop="20261113210000 +0000" channel="401">
+    <title lang="th">Equestrian: Jumping | Verone</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113210000 +0000" stop="20261113230000 +0000" channel="401">
+    <title lang="th">Athletics: Marathon |</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113230000 +0000" stop="20261114010000 +0000" channel="401">
+    <title lang="th">Equestrian: Jumping | Rome</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114010000 +0000" stop="20261114014500 +0000" channel="401">
+    <title lang="th">Cyclo-cross: Superprestige | Niel</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114014500 +0000" stop="20261114023000 +0000" channel="401">
+    <title lang="th">Cyclo-cross: Superprestige | Niel</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114023000 +0000" stop="20261114043000 +0000" channel="401">
+    <title lang="th">Endurance Moto Racing: 8 Hours Of Suzuka | Race</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114043000 +0000" stop="20261114051500 +0000" channel="401">
+    <title lang="th">Cyclo-cross: Superprestige | Niel</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114051500 +0000" stop="20261114054500 +0000" channel="401">
+    <title lang="th">Cyclo-cross: Superprestige | Niel</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114054500 +0000" stop="20261114084500 +0000" channel="401">
+    <title lang="th">Powerlifting: Powerlifting: World equipped championship</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114084500 +0000" stop="20261114103000 +0000" channel="401">
+    <title lang="th">Alpine Skiing: Levi | Women Slalom</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114103000 +0000" stop="20261114111500 +0000" channel="401">
+    <title lang="th">Cyclo-cross: Superprestige | Niel</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114111500 +0000" stop="20261114114500 +0000" channel="401">
+    <title lang="th">Cyclo-cross: Superprestige | Niel</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114114500 +0000" stop="20261114131500 +0000" channel="401">
+    <title lang="th">Alpine Skiing: Levi | Women Slalom</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114131500 +0000" stop="20261114134500 +0000" channel="401">
+    <title lang="th">Cyclo-cross: Superprestige | Merksplas</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114134500 +0000" stop="20261114140500 +0000" channel="401">
+    <title lang="th">Mountain Bike: UCI Enduro World Championship | Review</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114140500 +0000" stop="20261114151500 +0000" channel="401">
+    <title lang="th">Cyclo-cross: Superprestige | Merksplas</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114151500 +0000" stop="20261114161500 +0000" channel="401">
+    <title lang="th">Alpine Skiing: Levi | Women Slalom</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114161500 +0000" stop="20261114170000 +0000" channel="401">
+    <title lang="th">Alpine Skiing: Levi | Women Slalom</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114170000 +0000" stop="20261114174500 +0000" channel="401">
+    <title lang="th">Cyclo-cross: Superprestige | Merksplas</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114174500 +0000" stop="20261114183000 +0000" channel="401">
+    <title lang="th">Cyclo-cross: Superprestige | Merksplas</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114183000 +0000" stop="20261114210000 +0000" channel="401">
+    <title lang="th">Triathlon: Triathlon: T100 Triathlon World Tour</title>
     <desc lang="th">ไม่มีรายละเอียด</desc>
   </programme>
   <programme start="20261113170000 +0000" stop="20261113173000 +0000" channel="25">
@@ -2146,6 +3339,354 @@
     <title lang="th">JapanOrigin</title>
     <desc lang="th">ไม่มีรายละเอียด</desc>
   </programme>
+  <programme start="20261112170000 +0000" stop="20261112190000 +0000" channel="29">
+    <title lang="th">YOUNGSTER Variety (Rerun)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112190000 +0000" stop="20261112210000 +0000" channel="29">
+    <title lang="th">SELECTED (Rerun)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112210000 +0000" stop="20261112230000 +0000" channel="29">
+    <title lang="th">YOUNGSTER Variety (Rerun)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112230000 +0000" stop="20261113010000 +0000" channel="29">
+    <title lang="th">YOUNGSTER Variety (Rerun)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113010000 +0000" stop="20261113030000 +0000" channel="29">
+    <title lang="th">SELECTED (Rerun)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113030000 +0000" stop="20261113050000 +0000" channel="29">
+    <title lang="th">YOUNGSTER Variety (Rerun)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113050000 +0000" stop="20261113070000 +0000" channel="29">
+    <title lang="th">YOUNGSTER Variety (Rerun)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113070000 +0000" stop="20261113090000 +0000" channel="29">
+    <title lang="th">SELECTED (Rerun)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113090000 +0000" stop="20261113110000 +0000" channel="29">
+    <title lang="th">YOUNGSTER Variety (Rerun)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113110000 +0000" stop="20261113130000 +0000" channel="29">
+    <title lang="th">YOUNGSTER Variety</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113130000 +0000" stop="20261113150000 +0000" channel="29">
+    <title lang="th">SELECTED</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113150000 +0000" stop="20261113170000 +0000" channel="29">
+    <title lang="th">YOUNGSTER Variety</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113170000 +0000" stop="20261113190000 +0000" channel="29">
+    <title lang="th">YOUNGSTER Variety (Rerun)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113190000 +0000" stop="20261113210000 +0000" channel="29">
+    <title lang="th">SELECTED (Rerun)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113210000 +0000" stop="20261113230000 +0000" channel="29">
+    <title lang="th">YOUNGSTER Variety (Rerun)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113230000 +0000" stop="20261114010000 +0000" channel="29">
+    <title lang="th">YOUNGSTER Variety (Rerun)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114010000 +0000" stop="20261114030000 +0000" channel="29">
+    <title lang="th">SELECTED (Rerun)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114030000 +0000" stop="20261114050000 +0000" channel="29">
+    <title lang="th">YOUNGSTER Variety (Rerun)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114050000 +0000" stop="20261114070000 +0000" channel="29">
+    <title lang="th">YOUNGSTER Variety (Rerun)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114070000 +0000" stop="20261114090000 +0000" channel="29">
+    <title lang="th">SELECTED (Rerun)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114090000 +0000" stop="20261114110000 +0000" channel="29">
+    <title lang="th">YOUNGSTER Variety (Rerun)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114110000 +0000" stop="20261114130000 +0000" channel="29">
+    <title lang="th">YOUNGSTER Variety (Rerun)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114130000 +0000" stop="20261114150000 +0000" channel="29">
+    <title lang="th">SELECTED (Rerun)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114150000 +0000" stop="20261114170000 +0000" channel="29">
+    <title lang="th">YOUNGSTER Variety (Rerun)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114170000 +0000" stop="20261114190000 +0000" channel="29">
+    <title lang="th">YOUNGSTER Variety (Rerun)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114190000 +0000" stop="20261114210000 +0000" channel="29">
+    <title lang="th">SELECTED (Rerun)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112180000 +0000" stop="20261112200000 +0000" channel="29">
+    <title lang="th">THE MAN WITH THE IRON HEART ปฏิบัติการลับดับนาซี</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112200000 +0000" stop="20261112220000 +0000" channel="29">
+    <title lang="th">SECURITY โคตรยามอันตราย</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112220000 +0000" stop="20261113000000 +0000" channel="29">
+    <title lang="th">SPECIAL FORCES แหกด่านจู่โจมสายฟ้าแลบ</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113000000 +0000" stop="20261113020000 +0000" channel="29">
+    <title lang="th">MR. PIP แรงฝันบันดาลใจ</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113020000 +0000" stop="20261113040000 +0000" channel="29">
+    <title lang="th">FORMED POLICE UNIT หน่วยพยัคฆ์พิทักษ์ข้ามโลก</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113040000 +0000" stop="20261113060000 +0000" channel="29">
+    <title lang="th">THE BRICKLAYER จารชนคนพันธุ์เดือด</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113060000 +0000" stop="20261113080000 +0000" channel="29">
+    <title lang="th">A SCORE TO SETTLE คนคลั่งปิดบัญชีแค้น</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113080000 +0000" stop="20261113100000 +0000" channel="29">
+    <title lang="th">โอเวอร์ไซส์ ทลายพุง OVERSIZE COPS</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113100000 +0000" stop="20261113120000 +0000" channel="29">
+    <title lang="th">อก 3 ศอก 2 กำปั้น FIGHTING BEAT</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113120000 +0000" stop="20261113140000 +0000" channel="29">
+    <title lang="th">DETECTIVE DEE: MURDER IN CHANG&apos;AN ตี๋เหรินเจี๋ย ปริศนาแห่งเมืองฉางอัน</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113140000 +0000" stop="20261113160000 +0000" channel="29">
+    <title lang="th">SILENCE ศรัทธาไม่เงียบ</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113160000 +0000" stop="20261113180000 +0000" channel="29">
+    <title lang="th">BRICK MANSIONS พันธุ์โดด พันธุ์เดือด</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113180000 +0000" stop="20261113200000 +0000" channel="29">
+    <title lang="th">A SCORE TO SETTLE คนคลั่งปิดบัญชีแค้น</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113200000 +0000" stop="20261113220000 +0000" channel="29">
+    <title lang="th">โอเวอร์ไซส์ ทลายพุง OVERSIZE COPS</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113220000 +0000" stop="20261114000000 +0000" channel="29">
+    <title lang="th">อก 3 ศอก 2 กำปั้น FIGHTING BEAT</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114000000 +0000" stop="20261114020000 +0000" channel="29">
+    <title lang="th">DETECTIVE DEE: MURDER IN CHANG&apos;AN ตี๋เหรินเจี๋ย ปริศนาแห่งเมืองฉางอัน</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114020000 +0000" stop="20261114040000 +0000" channel="29">
+    <title lang="th">SILENCE ศรัทธาไม่เงียบ</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114040000 +0000" stop="20261114060000 +0000" channel="29">
+    <title lang="th">BRICK MANSIONS พันธุ์โดด พันธุ์เดือด</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114060000 +0000" stop="20261114080000 +0000" channel="29">
+    <title lang="th">SKYLINES สกายไลน์ 3 สงครามถล่มจักรวาล</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114080000 +0000" stop="20261114100000 +0000" channel="29">
+    <title lang="th">JOLT สวย แรง สูง</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114100000 +0000" stop="20261114120000 +0000" channel="29">
+    <title lang="th">PREY ขย้ำ</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114120000 +0000" stop="20261114140000 +0000" channel="29">
+    <title lang="th">สวยรหัสฆ่า BLOOD VALENTINE</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114140000 +0000" stop="20261114160000 +0000" channel="29">
+    <title lang="th">YOUR EYES TELL สัมผัสนั้นไม่มีวันลืม</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114160000 +0000" stop="20261114180000 +0000" channel="29">
+    <title lang="th">DANGEROUS ล่าขุมทรัพย์ลับลวงพราง</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114180000 +0000" stop="20261114200000 +0000" channel="29">
+    <title lang="th">SKYLINES สกายไลน์ 3 สงครามถล่มจักรวาล</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114200000 +0000" stop="20261114220000 +0000" channel="29">
+    <title lang="th">JOLT สวย แรง สูง</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112170000 +0000" stop="20261112193500 +0000" channel="29">
+    <title lang="th">Sports Program</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112193500 +0000" stop="20261112215000 +0000" channel="29">
+    <title lang="th">ถ่ายทอดสด UEFA NATIONS LEAGUE 2026/27</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112215000 +0000" stop="20261113000000 +0000" channel="29">
+    <title lang="th">Sports Program</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113000000 +0000" stop="20261113010000 +0000" channel="29">
+    <title lang="th">Sports Program</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113010000 +0000" stop="20261113013000 +0000" channel="29">
+    <title lang="th">MONO MORNING SPORTS</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113013000 +0000" stop="20261113034500 +0000" channel="29">
+    <title lang="th">PREMIER LEAGUE 2026/2027</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113034500 +0000" stop="20261113044500 +0000" channel="29">
+    <title lang="th">SPORT ROUNDUP</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113044500 +0000" stop="20261113055000 +0000" channel="29">
+    <title lang="th">MONO Original</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113055000 +0000" stop="20261113062000 +0000" channel="29">
+    <title lang="th">SPORTS TODAY</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113062000 +0000" stop="20261113073000 +0000" channel="29">
+    <title lang="th">MONO Original</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113073000 +0000" stop="20261113103000 +0000" channel="29">
+    <title lang="th">SV.LEAGUE WOMEN 2026/2027</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113103000 +0000" stop="20261113110000 +0000" channel="29">
+    <title lang="th">SPORTS TODAY</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113110000 +0000" stop="20261113134000 +0000" channel="29">
+    <title lang="th">MONO Original / ข่าวในพระราชสำนัก</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113134000 +0000" stop="20261113140000 +0000" channel="29">
+    <title lang="th">SPORTS FOCUS</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113140000 +0000" stop="20261113143500 +0000" channel="29">
+    <title lang="th">MAX SPORT WEEKEND PREVIEW</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113143500 +0000" stop="20261113170000 +0000" channel="29">
+    <title lang="th">PREMIER LEAGUE 2026/2027</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113170000 +0000" stop="20261113193500 +0000" channel="29">
+    <title lang="th">Sports Program</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113193500 +0000" stop="20261113215000 +0000" channel="29">
+    <title lang="th">ถ่ายทอดสด UEFA NATIONS LEAGUE 2026/27</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113215000 +0000" stop="20261113230000 +0000" channel="29">
+    <title lang="th">Sports Program</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113230000 +0000" stop="20261114000000 +0000" channel="29">
+    <title lang="th">SPORT ROUNDUP</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114000000 +0000" stop="20261114010500 +0000" channel="29">
+    <title lang="th">Sports Program</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114010500 +0000" stop="20261114014500 +0000" channel="29">
+    <title lang="th">MAX SPORT FANZONE</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114014500 +0000" stop="20261114022500 +0000" channel="29">
+    <title lang="th">HEALTH HACKS</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114022500 +0000" stop="20261114033000 +0000" channel="29">
+    <title lang="th">MONO Original</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114033000 +0000" stop="20261114035000 +0000" channel="29">
+    <title lang="th">Sports Program</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114035000 +0000" stop="20261114045500 +0000" channel="29">
+    <title lang="th">MONO Original</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114045500 +0000" stop="20261114074000 +0000" channel="29">
+    <title lang="th">ถ่ายทอดสด SV.LEAGUE WOMEN 2026/2027</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114074000 +0000" stop="20261114084000 +0000" channel="29">
+    <title lang="th">HOT SEAT</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114084000 +0000" stop="20261114102500 +0000" channel="29">
+    <title lang="th">UEFA NATIONS LEAGUE 2026/27</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114102500 +0000" stop="20261114110000 +0000" channel="29">
+    <title lang="th">MAX SPORT WEEKEND PREVIEW</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114110000 +0000" stop="20261114132500 +0000" channel="29">
+    <title lang="th">UEFA NATIONS LEAGUE 2026/27 / ข่าวในพระราชสำนัก</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114132500 +0000" stop="20261114152500 +0000" channel="29">
+    <title lang="th">UEFA NATIONS LEAGUE 2026/27</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114152500 +0000" stop="20261114170000 +0000" channel="29">
+    <title lang="th">UEFA NATIONS LEAGUE 2026/27</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114170000 +0000" stop="20261114193500 +0000" channel="29">
+    <title lang="th">Sports Program</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114193500 +0000" stop="20261114215000 +0000" channel="29">
+    <title lang="th">ถ่ายทอดสด UEFA NATIONS LEAGUE 2026/27</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
   <programme start="20261112170000 +0000" stop="20261112173000 +0000" channel="22">
     <title lang="th">NARiS SEASONs [R]</title>
     <desc lang="th">ไม่มีรายละเอียด</desc>
@@ -2772,6 +4313,290 @@
   </programme>
   <programme start="20261114190000 +0000" stop="20261114200500 +0000" channel="31">
     <title lang="th">MV / วันนี้มีธรรม SS.1</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112181000 +0000" stop="20261112205000 +0000" channel="111">
+    <title lang="th">The Hateful Eight</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112205000 +0000" stop="20261112230500 +0000" channel="111">
+    <title lang="th">L.A. Confidential</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112230500 +0000" stop="20261113003500 +0000" channel="111">
+    <title lang="th">American Psycho</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113003500 +0000" stop="20261113024000 +0000" channel="111">
+    <title lang="th">Godzilla Minus One</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113024000 +0000" stop="20261113044500 +0000" channel="111">
+    <title lang="th">Widows</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113044500 +0000" stop="20261113061500 +0000" channel="111">
+    <title lang="th">Enter The Game Of Death</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113061500 +0000" stop="20261113073500 +0000" channel="111">
+    <title lang="th">Death Race 2000</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113073500 +0000" stop="20261113091000 +0000" channel="111">
+    <title lang="th">Kill Cruise</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113091000 +0000" stop="20261113110500 +0000" channel="111">
+    <title lang="th">The Holcroft Covenant</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113110500 +0000" stop="20261113125500 +0000" channel="111">
+    <title lang="th">Ghost Rider</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113125500 +0000" stop="20261113143000 +0000" channel="111">
+    <title lang="th">Behind Enemy Lines</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113143000 +0000" stop="20261113162500 +0000" channel="111">
+    <title lang="th">Mr. &amp; Mrs. Smith</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113162500 +0000" stop="20261113175500 +0000" channel="111">
+    <title lang="th">Enter The Game Of Death</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113175500 +0000" stop="20261113191500 +0000" channel="111">
+    <title lang="th">Death Race 2000</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113191500 +0000" stop="20261113211000 +0000" channel="111">
+    <title lang="th">Transcendence</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113211000 +0000" stop="20261113225500 +0000" channel="111">
+    <title lang="th">Maximum Risk</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113225500 +0000" stop="20261114001500 +0000" channel="111">
+    <title lang="th">Death Race 2000</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114001500 +0000" stop="20261114020500 +0000" channel="111">
+    <title lang="th">Ghost Rider</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114020500 +0000" stop="20261114035500 +0000" channel="111">
+    <title lang="th">Daylight</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114035500 +0000" stop="20261114053000 +0000" channel="111">
+    <title lang="th">Fist From Shaolin</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114053000 +0000" stop="20261114070000 +0000" channel="111">
+    <title lang="th">American Psycho</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114070000 +0000" stop="20261114091500 +0000" channel="111">
+    <title lang="th">L.A. Confidential</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114091500 +0000" stop="20261114111000 +0000" channel="111">
+    <title lang="th">Transcendence</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114111000 +0000" stop="20261114125500 +0000" channel="111">
+    <title lang="th">Maximum Risk</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114125500 +0000" stop="20261114144500 +0000" channel="111">
+    <title lang="th">Wanted: Dead Or Alive</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114144500 +0000" stop="20261114165000 +0000" channel="111">
+    <title lang="th">Widows</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114165000 +0000" stop="20261114184500 +0000" channel="111">
+    <title lang="th">The Holcroft Covenant</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114184500 +0000" stop="20261114203500 +0000" channel="111">
+    <title lang="th">Ghost Rider</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112172500 +0000" stop="20261112181000 +0000" channel="112">
+    <title lang="th">Accident, Suicide, Or Murder S6</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112181000 +0000" stop="20261112185500 +0000" channel="112">
+    <title lang="th">Accident, Suicide, Or Murder S6</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112185500 +0000" stop="20261112192500 +0000" channel="112">
+    <title lang="th">Cobra Kai S2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112192500 +0000" stop="20261112195500 +0000" channel="112">
+    <title lang="th">Cobra Kai S2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112195500 +0000" stop="20261112203000 +0000" channel="112">
+    <title lang="th">Cobra Kai S2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112203000 +0000" stop="20261112210000 +0000" channel="112">
+    <title lang="th">Cobra Kai S2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112210000 +0000" stop="20261112213000 +0000" channel="112">
+    <title lang="th">Cobra Kai S2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112213000 +0000" stop="20261112220000 +0000" channel="112">
+    <title lang="th">Cobra Kai S2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112220000 +0000" stop="20261112224500 +0000" channel="112">
+    <title lang="th">Late Night With Seth Meyers S14</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112224500 +0000" stop="20261112233000 +0000" channel="112">
+    <title lang="th">The Tonight Show Starring Jimmy Fallon S14</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112233000 +0000" stop="20261113001500 +0000" channel="112">
+    <title lang="th">Accident, Suicide, Or Murder S6</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113001500 +0000" stop="20261113010000 +0000" channel="112">
+    <title lang="th">Accident, Suicide, Or Murder S6</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113010000 +0000" stop="20261113014500 +0000" channel="112">
+    <title lang="th">Accident, Suicide, Or Murder S6</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113014500 +0000" stop="20261113023000 +0000" channel="112">
+    <title lang="th">Accident, Suicide, Or Murder S6</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113023000 +0000" stop="20261113031500 +0000" channel="112">
+    <title lang="th">The Tonight Show Starring Jimmy Fallon S14</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113031500 +0000" stop="20261113040000 +0000" channel="112">
+    <title lang="th">Late Night With Seth Meyers S14</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113040000 +0000" stop="20261113043000 +0000" channel="112">
+    <title lang="th">Cobra Kai S2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113043000 +0000" stop="20261113050000 +0000" channel="112">
+    <title lang="th">Cobra Kai S2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113050000 +0000" stop="20261113053000 +0000" channel="112">
+    <title lang="th">Cobra Kai S2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113053000 +0000" stop="20261113060500 +0000" channel="112">
+    <title lang="th">Cobra Kai S2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113060500 +0000" stop="20261113063500 +0000" channel="112">
+    <title lang="th">Cobra Kai S3</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113063500 +0000" stop="20261113071000 +0000" channel="112">
+    <title lang="th">Cobra Kai S3</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113071000 +0000" stop="20261113074500 +0000" channel="112">
+    <title lang="th">Cobra Kai S3</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113074500 +0000" stop="20261113092000 +0000" channel="112">
+    <title lang="th">Moby Dick Part 1</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113092000 +0000" stop="20261113110000 +0000" channel="112">
+    <title lang="th">Moby Dick Part 2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113110000 +0000" stop="20261113130000 +0000" channel="112">
+    <title lang="th">Peter Pan</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113130000 +0000" stop="20261113143000 +0000" channel="112">
+    <title lang="th">Alvin And The Chipmunks</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113143000 +0000" stop="20261113163000 +0000" channel="112">
+    <title lang="th">Around The World In 80 Days</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113163000 +0000" stop="20261113182000 +0000" channel="112">
+    <title lang="th">The Librarian: The Quest For The Spear</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113182000 +0000" stop="20261113201500 +0000" channel="112">
+    <title lang="th">Kindergarten Cop</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113201500 +0000" stop="20261113221000 +0000" channel="112">
+    <title lang="th">Back To The Future III</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113221000 +0000" stop="20261113234000 +0000" channel="112">
+    <title lang="th">Alvin And The Chipmunks</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113234000 +0000" stop="20261114011500 +0000" channel="112">
+    <title lang="th">Moby Dick Part 1</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114011500 +0000" stop="20261114025500 +0000" channel="112">
+    <title lang="th">Moby Dick Part 2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114025500 +0000" stop="20261114044500 +0000" channel="112">
+    <title lang="th">The Librarian: The Quest For The Spear</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114044500 +0000" stop="20261114064500 +0000" channel="112">
+    <title lang="th">Peter Pan</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114064500 +0000" stop="20261114084000 +0000" channel="112">
+    <title lang="th">Back To The Future III</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114084000 +0000" stop="20261114103000 +0000" channel="112">
+    <title lang="th">Kindergarten Cop</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114103000 +0000" stop="20261114123000 +0000" channel="112">
+    <title lang="th">Around The World In 80 Days</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114123000 +0000" stop="20261114142500 +0000" channel="112">
+    <title lang="th">Back To The Future III</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114142500 +0000" stop="20261114162500 +0000" channel="112">
+    <title lang="th">Peter Pan</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114162500 +0000" stop="20261114183000 +0000" channel="112">
+    <title lang="th">Around The World In 80 Days</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114183000 +0000" stop="20261114200500 +0000" channel="112">
+    <title lang="th">Moby Dick Part 1</title>
     <desc lang="th">ไม่มีรายละเอียด</desc>
   </programme>
   <programme start="20261112170000 +0000" stop="20261112220000 +0000" channel="7">
@@ -3592,6 +5417,454 @@
   </programme>
   <programme start="20261114193000 +0000" stop="20261114203000 +0000" channel="24">
     <title lang="th">TNN ข่าวเที่ยง 2026</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112170000 +0000" stop="20261112190000 +0000" channel="401">
+    <title lang="th">Softball: WSWC &apos;27 Gr. A: Cuba v Canada</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112190000 +0000" stop="20261112193000 +0000" channel="401">
+    <title lang="th">Magazine: Heroines (S1): Heroines (S1E11)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112193000 +0000" stop="20261112210000 +0000" channel="401">
+    <title lang="th">Netball: Malaysian NSL &apos;26: Melaka Mystic v Perak Phoenix</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112210000 +0000" stop="20261112213000 +0000" channel="401">
+    <title lang="th">Magazine: Sports Woman: C.Marks, L.Armanto, Y. Rojas</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112213000 +0000" stop="20261112230000 +0000" channel="401">
+    <title lang="th">Netball: Netball Super League &apos;26: Panthers v Lightning</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112230000 +0000" stop="20261113004000 +0000" channel="401">
+    <title lang="th">Softball: WSWC &apos;27 Gr. C: USA v Brazil</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113004000 +0000" stop="20261113011000 +0000" channel="401">
+    <title lang="th">Athletics: MP &apos;26: Ibiza Marathon, MP &apos;26</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113011000 +0000" stop="20261113044500 +0000" channel="401">
+    <title lang="th">Mountain Biking: Roc D&apos;azur CIC &apos;26: Roc D&apos;azur &apos;26 Mountain Bike</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113044500 +0000" stop="20261113070000 +0000" channel="401">
+    <title lang="th">Athletics: 2026 ATHLOS season: 2026 ATHLOS London</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113070000 +0000" stop="20261113080000 +0000" channel="401">
+    <title lang="th">Cycling: Tour Down Under &apos;26: Tour Down Under &apos;26 H/L show</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113080000 +0000" stop="20261113083000 +0000" channel="401">
+    <title lang="th">Football: Women&apos;s Football Weekly</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113083000 +0000" stop="20261113103000 +0000" channel="401">
+    <title lang="th">Football: Serie A Women 2026/27: Milan v Inter</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113103000 +0000" stop="20261113110000 +0000" channel="401">
+    <title lang="th">Magazine: Sports Woman &apos;24</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113110000 +0000" stop="20261113120000 +0000" channel="401">
+    <title lang="th">Football: BWSL H/L Show &apos;26/27: BWSL H/L Show &apos;26/27 EP9</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113120000 +0000" stop="20261113140000 +0000" channel="401">
+    <title lang="th">Football: Barclay&apos;s WSL &apos;26/27: London City v Birmingham City</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113140000 +0000" stop="20261113150000 +0000" channel="401">
+    <title lang="th">Wintersports: Snow League &apos;25/26: Aspen Snowmass, USA, H/Ls</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113150000 +0000" stop="20261113170000 +0000" channel="401">
+    <title lang="th">Softball: WSWC &apos;27 Gr. A: Australia v Cuba</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113170000 +0000" stop="20261113173000 +0000" channel="401">
+    <title lang="th">Athletics: MP &apos;26: Transvulcania, MP &apos;26</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113173000 +0000" stop="20261113193000 +0000" channel="401">
+    <title lang="th">Equestrian: Jump Saudi &apos;25: CSI5 World Cup</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113193000 +0000" stop="20261113210000 +0000" channel="401">
+    <title lang="th">Netball: Netball Super League &apos;26: Lightning v Forest</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113210000 +0000" stop="20261113213000 +0000" channel="401">
+    <title lang="th">Magazine: Sports Woman: Surfing league at Tokyo</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113213000 +0000" stop="20261113230000 +0000" channel="401">
+    <title lang="th">Netball: Malaysian NSL &apos;26: T.Marvels v Melaka Mystic</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113230000 +0000" stop="20261113233000 +0000" channel="401">
+    <title lang="th">Magazine: Heroines (S1): Heroines (S1E06)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113233000 +0000" stop="20261114013000 +0000" channel="401">
+    <title lang="th">Softball: WSWC &apos;27 Gr. C: Mexico v Netherlands</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114013000 +0000" stop="20261114020000 +0000" channel="401">
+    <title lang="th">Athletics: Spartan Race &apos;26: Spartan Race &apos;26 Sparta H/L</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114020000 +0000" stop="20261114040000 +0000" channel="401">
+    <title lang="th">Football: Barclay&apos;s WSL &apos;26/27: Chelsea v Everton</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114040000 +0000" stop="20261114042500 +0000" channel="401">
+    <title lang="th">Tennis: On Her Shoulders: Interviews</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114042500 +0000" stop="20261114062500 +0000" channel="401">
+    <title lang="th">Football: LIVE Serie A Women 2026/27</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114062500 +0000" stop="20261114083000 +0000" channel="401">
+    <title lang="th">Football: LIVE Barclay&apos;s WSL &apos;26/27: Chelsea v Manchester City</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114083000 +0000" stop="20261114084500 +0000" channel="401">
+    <title lang="th">Tennis: On Her Shoulders: Interviews</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114084500 +0000" stop="20261114090000 +0000" channel="401">
+    <title lang="th">Tennis: On Her Shoulders: Interviews</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114090000 +0000" stop="20261114095500 +0000" channel="401">
+    <title lang="th">Athletics: MP Series &apos;25: Cape to Cape &apos;25 H/L</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114095500 +0000" stop="20261114120000 +0000" channel="401">
+    <title lang="th">Football: LIVE Frauen Bundesliga &apos;26/27: Wolfsburg v Bayern Munich</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114120000 +0000" stop="20261114140000 +0000" channel="401">
+    <title lang="th">Football: Serie A Women 2026/27</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114140000 +0000" stop="20261114143000 +0000" channel="401">
+    <title lang="th">Magazine: Sports Woman &apos;24</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114143000 +0000" stop="20261114163000 +0000" channel="401">
+    <title lang="th">Football: Barclay&apos;s WSL &apos;26/27: Liverpool v Arsenal</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114163000 +0000" stop="20261114183000 +0000" channel="401">
+    <title lang="th">Softball: WSWC &apos;27 Gr. A: Czechia v Chinese Taipei</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114183000 +0000" stop="20261114193000 +0000" channel="401">
+    <title lang="th">Wintersports: Snow League &apos;25/26: LAAX, Switzerland, Freeski H/L</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114193000 +0000" stop="20261114210000 +0000" channel="401">
+    <title lang="th">Netball: Malaysian NSL &apos;26: Johor Jewels v KL Wildcats</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112173000 +0000" stop="20261112181500 +0000" channel="109">
+    <title lang="th">World&apos;s Dumbest S15</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112181500 +0000" stop="20261112190000 +0000" channel="109">
+    <title lang="th">Titans S1</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112190000 +0000" stop="20261112193000 +0000" channel="109">
+    <title lang="th">Storage Hunters S5</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112193000 +0000" stop="20261112195500 +0000" channel="109">
+    <title lang="th">Storage Hunters S5</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112195500 +0000" stop="20261112204500 +0000" channel="109">
+    <title lang="th">The Mentalist S6</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112204500 +0000" stop="20261112213500 +0000" channel="109">
+    <title lang="th">Titans S1</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112213500 +0000" stop="20261112220000 +0000" channel="109">
+    <title lang="th">Hack My Life S2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112220000 +0000" stop="20261112222500 +0000" channel="109">
+    <title lang="th">The Carbonaro Effect: Double Takes - Back To The Meet And Greet</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112222500 +0000" stop="20261112225000 +0000" channel="109">
+    <title lang="th">The Carbonaro Effect: Double Takes - Back To Aztec Portal</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112225000 +0000" stop="20261112234000 +0000" channel="109">
+    <title lang="th">World&apos;s Dumbest S15</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261112234000 +0000" stop="20261113003000 +0000" channel="109">
+    <title lang="th">Impractical Jokers S8</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113003000 +0000" stop="20261113005500 +0000" channel="109">
+    <title lang="th">Storage Hunters S5</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113005500 +0000" stop="20261113012000 +0000" channel="109">
+    <title lang="th">Storage Hunters S5</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113012000 +0000" stop="20261113014500 +0000" channel="109">
+    <title lang="th">The Carbonaro Effect: Double Takes - Back To The Meet And Greet</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113014500 +0000" stop="20261113021000 +0000" channel="109">
+    <title lang="th">The Carbonaro Effect: Double Takes - Back To Aztec Portal</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113021000 +0000" stop="20261113030000 +0000" channel="109">
+    <title lang="th">The Mentalist S6</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113030000 +0000" stop="20261113032500 +0000" channel="109">
+    <title lang="th">The Carbonaro Effect S3</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113032500 +0000" stop="20261113035000 +0000" channel="109">
+    <title lang="th">Hack My Life S2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113035000 +0000" stop="20261113044000 +0000" channel="109">
+    <title lang="th">Impractical Jokers S8</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113044000 +0000" stop="20261113050500 +0000" channel="109">
+    <title lang="th">Storage Hunters S5</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113050500 +0000" stop="20261113053000 +0000" channel="109">
+    <title lang="th">Storage Hunters S5</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113053000 +0000" stop="20261113055500 +0000" channel="109">
+    <title lang="th">The Big Bang Theory S7</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113055500 +0000" stop="20261113062000 +0000" channel="109">
+    <title lang="th">Friends S8</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113062000 +0000" stop="20261113071000 +0000" channel="109">
+    <title lang="th">World&apos;s Dumbest S15</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113071000 +0000" stop="20261113080000 +0000" channel="109">
+    <title lang="th">The Mentalist S6</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113080000 +0000" stop="20261113082500 +0000" channel="109">
+    <title lang="th">The Big Bang Theory S7</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113082500 +0000" stop="20261113085000 +0000" channel="109">
+    <title lang="th">Friends S8</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113085000 +0000" stop="20261113091500 +0000" channel="109">
+    <title lang="th">Storage Hunters S5</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113091500 +0000" stop="20261113094000 +0000" channel="109">
+    <title lang="th">Storage Hunters S5</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113094000 +0000" stop="20261113103000 +0000" channel="109">
+    <title lang="th">Impractical Jokers S8</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113103000 +0000" stop="20261113105500 +0000" channel="109">
+    <title lang="th">The Carbonaro Effect: Double Takes - Back To The Meet And Greet</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113105500 +0000" stop="20261113112000 +0000" channel="109">
+    <title lang="th">The Carbonaro Effect: Double Takes - Back To Aztec Portal</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113112000 +0000" stop="20261113114500 +0000" channel="109">
+    <title lang="th">The Big Bang Theory S7</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113114500 +0000" stop="20261113121000 +0000" channel="109">
+    <title lang="th">Friends S8</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113121000 +0000" stop="20261113123500 +0000" channel="109">
+    <title lang="th">The Carbonaro Effect S3</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113123500 +0000" stop="20261113130000 +0000" channel="109">
+    <title lang="th">Hack My Life S2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113130000 +0000" stop="20261113160000 +0000" channel="109">
+    <title lang="th">The Assassination Of Jesse James By The Coward Robert Ford</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113160000 +0000" stop="20261113173500 +0000" channel="109">
+    <title lang="th">Getaway</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113173500 +0000" stop="20261113182000 +0000" channel="109">
+    <title lang="th">World&apos;s Dumbest S15</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113182000 +0000" stop="20261113190500 +0000" channel="109">
+    <title lang="th">Titans S1</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113190500 +0000" stop="20261113193000 +0000" channel="109">
+    <title lang="th">Storage Hunters S5</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113193000 +0000" stop="20261113195500 +0000" channel="109">
+    <title lang="th">Storage Hunters S5</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113195500 +0000" stop="20261113204500 +0000" channel="109">
+    <title lang="th">The Mentalist S6</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113204500 +0000" stop="20261113213500 +0000" channel="109">
+    <title lang="th">Titans S1</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113213500 +0000" stop="20261113220000 +0000" channel="109">
+    <title lang="th">Hack My Life S2</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113220000 +0000" stop="20261113222500 +0000" channel="109">
+    <title lang="th">Storage Hunters S5</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113222500 +0000" stop="20261113225000 +0000" channel="109">
+    <title lang="th">Storage Hunters S5</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113225000 +0000" stop="20261113231500 +0000" channel="109">
+    <title lang="th">Storage Hunters S5</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113231500 +0000" stop="20261113234000 +0000" channel="109">
+    <title lang="th">Storage Hunters S5</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261113234000 +0000" stop="20261114000500 +0000" channel="109">
+    <title lang="th">Storage Hunters S5</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114000500 +0000" stop="20261114003000 +0000" channel="109">
+    <title lang="th">Storage Hunters S5</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114003000 +0000" stop="20261114005500 +0000" channel="109">
+    <title lang="th">Storage Hunters S5</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114005500 +0000" stop="20261114012000 +0000" channel="109">
+    <title lang="th">Storage Hunters S5</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114012000 +0000" stop="20261114014500 +0000" channel="109">
+    <title lang="th">Storage Hunters S5</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114014500 +0000" stop="20261114021000 +0000" channel="109">
+    <title lang="th">Storage Hunters S5</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114021000 +0000" stop="20261114023500 +0000" channel="109">
+    <title lang="th">The Big Bang Theory S7</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114023500 +0000" stop="20261114030000 +0000" channel="109">
+    <title lang="th">The Big Bang Theory S7</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114030000 +0000" stop="20261114032500 +0000" channel="109">
+    <title lang="th">The Big Bang Theory S7</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114032500 +0000" stop="20261114035000 +0000" channel="109">
+    <title lang="th">The Big Bang Theory S7</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114035000 +0000" stop="20261114041500 +0000" channel="109">
+    <title lang="th">The Big Bang Theory S7</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114041500 +0000" stop="20261114060000 +0000" channel="109">
+    <title lang="th">The 15:17 To Paris</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114060000 +0000" stop="20261114080000 +0000" channel="109">
+    <title lang="th">The Conjuring</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114080000 +0000" stop="20261114082500 +0000" channel="109">
+    <title lang="th">Friends S8</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114082500 +0000" stop="20261114084500 +0000" channel="109">
+    <title lang="th">Friends S8</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114084500 +0000" stop="20261114091000 +0000" channel="109">
+    <title lang="th">Friends S8</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114091000 +0000" stop="20261114110000 +0000" channel="109">
+    <title lang="th">Two Weeks Notice</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114110000 +0000" stop="20261114130000 +0000" channel="109">
+    <title lang="th">Jack The Giant Slayer</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114130000 +0000" stop="20261114154000 +0000" channel="109">
+    <title lang="th">Superman Returns</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114154000 +0000" stop="20261114174000 +0000" channel="109">
+    <title lang="th">Birds Of Prey (And The Fantabulous Emancipation Of One Harley Quinn)</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114174000 +0000" stop="20261114183000 +0000" channel="109">
+    <title lang="th">Chuck S1</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114183000 +0000" stop="20261114185500 +0000" channel="109">
+    <title lang="th">Friends S8</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114185500 +0000" stop="20261114194000 +0000" channel="109">
+    <title lang="th">World&apos;s Dumbest S15</title>
+    <desc lang="th">ไม่มีรายละเอียด</desc>
+  </programme>
+  <programme start="20261114194000 +0000" stop="20261114202500 +0000" channel="109">
+    <title lang="th">World&apos;s Dumbest S15</title>
     <desc lang="th">ไม่มีรายละเอียด</desc>
   </programme>
   <programme start="20261112172813 +0000" stop="20261112175113 +0000" channel="22">
