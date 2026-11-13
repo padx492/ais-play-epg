@@ -1,3 +1,5 @@
+const fs = require('fs');
+
 const ALL_CHANNELS = [
     // --- 1. ช่องฟรีทีวีและช่องหลัก ---
     { id: "2", name: "เอ็นบีที 2 เอชดี" },
