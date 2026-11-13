@@ -18,7 +18,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '24' # ระบุเวอร์ชัน Node.js ให้เสถียร
+          node-version: '20' # ระบุเวอร์ชัน Node.js ให้เสถียร
 
       - name: Install dependencies
         run: npm install
