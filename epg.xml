@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="AISPLAY-OpenEPG-Real">
   <channel id="2">
-    <display-name lang="th">ช่อง 2</display-name>
+    <display-name lang="th">NBT</display-name>
   </channel>
   <channel id="3">
-    <display-name lang="th">ช่อง 3</display-name>
+    <display-name lang="th">Thai PBS</display-name>
   </channel>
   <channel id="5">
-    <display-name lang="th">ช่อง 5</display-name>
+    <display-name lang="th">TV5 HD</display-name>
   </channel>
   <channel id="7">
-    <display-name lang="th">ช่อง 7</display-name>
+    <display-name lang="th">T Sports 7</display-name>
   </channel>
   <channel id="16">
-    <display-name lang="th">ช่อง 16</display-name>
+    <display-name lang="th">TNN16</display-name>
   </channel>
   <channel id="22">
-    <display-name lang="th">ช่อง 22</display-name>
+    <display-name lang="th">Nation TV</display-name>
   </channel>
   <channel id="23">
-    <display-name lang="th">ช่อง 23</display-name>
+    <display-name lang="th">Workpoint TV</display-name>
   </channel>
   <channel id="24">
-    <display-name lang="th">ช่อง 24</display-name>
+    <display-name lang="th">True4U</display-name>
   </channel>
   <channel id="25">
-    <display-name lang="th">ช่อง 25</display-name>
+    <display-name lang="th">GMM 25</display-name>
   </channel>
   <channel id="27">
-    <display-name lang="th">ช่อง 27</display-name>
+    <display-name lang="th">Channel 8</display-name>
   </channel>
   <channel id="30">
-    <display-name lang="th">ช่อง 30</display-name>
+    <display-name lang="th">MCOT HD</display-name>
   </channel>
   <channel id="31">
-    <display-name lang="th">ช่อง 31</display-name>
+    <display-name lang="th">ONE 31</display-name>
   </channel>
   <channel id="32">
-    <display-name lang="th">ช่อง 32</display-name>
+    <display-name lang="th">Thairath TV</display-name>
   </channel>
   <channel id="33">
-    <display-name lang="th">ช่อง 33</display-name>
+    <display-name lang="th">Channel 3 HD</display-name>
   </channel>
   <channel id="34">
-    <display-name lang="th">ช่อง 34</display-name>
+    <display-name lang="th">Amarin TV</display-name>
   </channel>
   <channel id="35">
-    <display-name lang="th">ช่อง 35</display-name>
+    <display-name lang="th">Channel 7 HD</display-name>
   </channel>
   <channel id="36">
-    <display-name lang="th">ช่อง 36</display-name>
+    <display-name lang="th">PPTV HD</display-name>
   </channel>
   <channel id="101">
-    <display-name lang="th">ช่อง 101</display-name>
+    <display-name lang="th">HBO</display-name>
   </channel>
   <programme start="20261112170000 +0000" stop="20261112173000 +0000" channel="34">
     <title lang="th">ตามอำเภอจาน AD CC</title>
