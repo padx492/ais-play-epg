@@ -4,16 +4,19 @@ const { XMLParser } = require('fast-xml-parser');
 
 // เพิ่ม property 'displayName' เข้าไป เพื่อกำหนดชื่อที่จะแสดงใน TiviMate
 const CHANNEL_MAPPING = [
-    { myId: "2", searchName: "NBT", displayName: "NBT" },
-    { myId: "3", searchName: "Thai PBS", displayName: "Thai PBS" },
+// --- ช่องฟรีทีวีหลัก & ข่าว ---
+    { myId: "2", searchName: "NBT", displayName: "NBT 2 HD" },
+    { myId: "3", searchName: "Thai PBS", displayName: "Thai PBS HD" },
     { myId: "5", searchName: "TV5", displayName: "TV5 HD" },
     { myId: "7", searchName: "T Sports", displayName: "T Sports 7" },
+    { myId: "10", searchName: "Parliament", displayName: "สถานีวิทยุโทรทัศน์รัฐสภา" },
     { myId: "16", searchName: "TNN", displayName: "TNN16" },
     { myId: "22", searchName: "Nation", displayName: "Nation TV" },
     { myId: "23", searchName: "Workpoint", displayName: "Workpoint TV" },
     { myId: "24", searchName: "True4U", displayName: "True4U" },
     { myId: "25", searchName: "GMM", displayName: "GMM 25" },
     { myId: "27", searchName: "Channel 8", displayName: "Channel 8" },
+    { myId: "29", searchName: "Mono", displayName: "Mono29" },
     { myId: "30", searchName: "MCOT", displayName: "MCOT HD" },
     { myId: "31", searchName: "ONE", displayName: "ONE 31" },
     { myId: "32", searchName: "Thairath", displayName: "Thairath TV" },
@@ -21,7 +24,38 @@ const CHANNEL_MAPPING = [
     { myId: "34", searchName: "Amarin", displayName: "Amarin TV" },
     { myId: "35", searchName: "Channel 7", displayName: "Channel 7 HD" },
     { myId: "36", searchName: "PPTV", displayName: "PPTV HD" },
-    { myId: "101", searchName: "HBO", displayName: "HBO" }
+
+    // --- ช่องภาพยนตร์ & ซีรีส์พรีเมียม (รวม Warner TV และ ROCK) ---
+    { myId: "101", searchName: "HBO", displayName: "HBO" },
+    { myId: "102", searchName: "Signature", displayName: "HBO Signature" },
+    { myId: "103", searchName: "Hits", displayName: "HBO Hits" },
+    { myId: "104", searchName: "Family", displayName: "HBO Family" },
+    { myId: "105", searchName: "Cinemax", displayName: "Cinemax" },
+    { myId: "109", searchName: "Warner TV", displayName: "Warner TV" },
+    { myId: "111", searchName: "ROCK Action", displayName: "ROCK Action" },
+    { myId: "112", searchName: "ROCK Entertainment", displayName: "ROCK Entertainment" },
+    { myId: "113", searchName: "Thrill", displayName: "Thrill" },
+    { myId: "114", searchName: "Celestial", displayName: "Celestial Movies" },
+
+    // --- ช่อง 3BB Asian และซีรีส์เอเชีย ---
+    { myId: "201", searchName: "3BB", displayName: "3BB Asian" },
+    { myId: "202", searchName: "Asian", displayName: "3BB Asian+" },
+
+    // --- ช่องการ์ตูน & อนิเมะ ---
+    { myId: "301", searchName: "Cartoon", displayName: "Cartoon Network" },
+    { myId: "302", searchName: "Boomerang", displayName: "Boomerang" },
+    { myId: "303", searchName: "Disney", displayName: "Disney Channel" },
+    { myId: "304", searchName: "Nickelodeon", displayName: "Nickelodeon" },
+
+    // --- ช่องกีฬา ---
+    { myId: "401", searchName: "Sport", displayName: "AIS PLAY Sport 1" },
+    { myId: "402", searchName: "Sport", displayName: "AIS PLAY Sport 2" },
+    { myId: "403", searchName: "Eurosport", displayName: "Eurosport 1" },
+    { myId: "404", searchName: "BeIN", displayName: "beIN Sports" },
+
+    // --- ช่องข่าวต่างประเทศ ---
+    { myId: "601", searchName: "CNN", displayName: "CNN" },
+    { myId: "602", searchName: "BBC", displayName: "BBC News" }
 ];
 
 const EPG_SOURCE_URL = 'https://www.open-epg.com/files/thailand2.xml';
