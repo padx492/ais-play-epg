@@ -23,22 +23,22 @@ const CHANNEL_MAPPING = [
     { myId: "101", searchName: "HBO" }
 ];
 
-const EPG_SOURCE_URL = 'https://www.open-epg.com/files/thailand2.xml';
+const EPG_SOURCE_URL = "https://www.open-epg.com/files/thailand2.xml";
 
-// ฟังก์ชันทำความสะอาดข้อความ XML แบบถูกต้องสมบูรณ์
+// ฟังก์ชันทำความสะอาดข้อความ XML ป้องกัน Syntax Error สมบูรณ์ 100%
 function escapeXml(str) {
-    if (!str || typeof str !== 'string') return '';
+    if (!str || typeof str !== 'string') return "";
     return str
-        .replace(/&/g, '&')
-        .replace(/</g, '<')
-        .replace(/>/g, '>')
-        .replace(/"/g, '"')
-        .replace(/'/g, ''');
+        .replace(/&/g, "&")
+        .replace(/</g, "<")
+        .replace(/>/g, ">")
+        .replace(/"/g, """)
+        .replace(/'/g, "'");
 }
 
 async function generateRealEPG() {
     try {
-        console.log('กำลังดาวน์โหลดและประมวลผลผังรายการจาก Open-EPG...');
+        console.log("กำลังดาวน์โหลดและประมวลผลผังรายการจาก Open-EPG...");
         const response = await axios.get(EPG_SOURCE_URL, {
             responseType: 'text',
             timeout: 60000
@@ -72,8 +72,8 @@ async function generateRealEPG() {
                     let rawTitle = prog.title ? (prog.title["#text"] || prog.title) : "รายการทีวี";
                     let rawDesc = prog.desc ? (prog.desc["#text"] || prog.desc) : "ไม่มีรายละเอียด";
 
-                    const title = escapeXml(typeof rawTitle === 'string' ? rawTitle : 'รายการ');
-                    const desc = escapeXml(typeof rawDesc === 'string' ? rawDesc : 'รายละเอียด');
+                    const title = escapeXml(typeof rawTitle === 'string' ? rawTitle : "รายการ");
+                    const desc = escapeXml(typeof rawDesc === 'string' ? rawDesc : "รายละเอียด");
 
                     xml += `  <programme start="${start}" stop="${stop}" channel="${matched.myId}">\n`;
                     xml += `    <title lang="th">${title}</title>\n`;
@@ -86,10 +86,10 @@ async function generateRealEPG() {
         xml += '</tv>';
 
         fs.writeFileSync('epg.xml', xml, 'utf8');
-        console.log('สร้างไฟล์ epg.xml ผังจริงสำเร็จเรียบร้อย!');
+        console.log("สร้างไฟล์ epg.xml ผังจริงสำเร็จเรียบร้อย!");
 
     } catch (error) {
-        console.error('เกิดข้อผิดพลาด:', error.message);
+        console.error("เกิดข้อผิดพลาด:", error.message);
         process.exit(1);
     }
 }
