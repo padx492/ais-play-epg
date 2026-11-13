@@ -25,7 +25,7 @@ const CHANNEL_MAPPING = [
 
 const EPG_SOURCE_URL = 'https://www.open-epg.com/files/thailand2.xml';
 
-// ฟังก์ชันช่วยทำความสะอาดข้อความ ป้องกัน Error XML ยุบยิบ
+// ฟังก์ชันทำความสะอาดข้อความ XML ที่ถูกต้อง
 function escapeXml(str) {
     if (!str || typeof str !== 'string') return '';
     return str
@@ -86,7 +86,7 @@ async function generateRealEPG() {
         xml += '</tv>';
 
         fs.writeFileSync('epg.xml', xml, 'utf8');
-        console.log('สร้างไฟล์ epg.xml ผังจริงและกรองอักขระพิเศษสำเร็จเรียบร้อย!');
+        console.log('สร้างไฟล์ epg.xml ผังจริงสำเร็จเรียบร้อย!');
 
     } catch (error) {
         console.error('เกิดข้อผิดพลาด:', error.message);
